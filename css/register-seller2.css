@@ -1,0 +1,1444 @@
+.register-seller2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.register-seller2-register-seller2 {
+  width: 100%;
+  height: 702px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.register-seller2-black12 {
+  top: 0px;
+  left: 0px;
+  width: 1536px;
+  height: 702px;
+  position: absolute;
+}
+.register-seller2-frame {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 1535px;
+  height: 31px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(119, 119, 119, 1);
+}
+.register-seller2-frame427319517 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.register-seller2-group2 {
+  width: 19px;
+  height: 12.210820198059082px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.register-seller2-vector {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 12px;
+  position: absolute;
+}
+.register-seller2-vector01 {
+  top: 3.7236900329589844px;
+  left: 0px;
+  width: 19px;
+  height: 5px;
+  position: absolute;
+}
+.register-seller2-vector02 {
+  top: 7.447380065917969px;
+  left: 0px;
+  width: 19px;
+  height: 5px;
+  position: absolute;
+}
+.register-seller2-vector03 {
+  top: 4.600877285003662px;
+  left: 8.018820762634277px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.register-seller2-vector04 {
+  top: 4.786771774291992px;
+  left: 8.233487129211426px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.register-seller2-vector05 {
+  top: 5.844043731689453px;
+  left: 9.4453125px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector06 {
+  top: 6.401726245880127px;
+  left: 11.176491737365723px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector07 {
+  top: 6.256496429443359px;
+  left: 9.701526641845703px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector08 {
+  top: 6.7154221534729px;
+  left: 11.079545021057129px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector09 {
+  top: 6.244877815246582px;
+  left: 9.355291366577148px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector10 {
+  top: 6.9884538650512695px;
+  left: 10.878728866577148px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector11 {
+  top: 6.2216410636901855px;
+  left: 8.995205879211426px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector12 {
+  top: 7.191775798797607px;
+  left: 10.594815254211426px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector13 {
+  top: 6.1925950050354px;
+  left: 8.676669120788574px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector14 {
+  top: 7.319577693939209px;
+  left: 10.255504608154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector15 {
+  top: 6.157740116119385px;
+  left: 8.434304237365723px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector16 {
+  top: 7.3602423667907715px;
+  left: 9.874645233154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector17 {
+  top: 6.1170759201049805px;
+  left: 8.281960487365723px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector18 {
+  top: 7.30795955657959px;
+  left: 9.479935646057129px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector19 {
+  top: 5.913753986358643px;
+  left: 8.233487129211426px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector20 {
+  top: 7.168539047241211px;
+  left: 9.092151641845703px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector21 {
+  top: 5.582630634307861px;
+  left: 8.281960487365723px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector22 {
+  top: 6.953598976135254px;
+  left: 8.752840995788574px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector23 {
+  top: 5.2863616943359375px;
+  left: 8.434304237365723px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector24 {
+  top: 6.680567264556885px;
+  left: 8.468927383422852px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector25 {
+  top: 5.048184871673584px;
+  left: 8.676669120788574px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector26 {
+  top: 6.3610615730285645px;
+  left: 8.275035858154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector27 {
+  top: 4.879718780517578px;
+  left: 8.995205879211426px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector28 {
+  top: 6.018319606781006px;
+  left: 8.171164512634277px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector29 {
+  top: 4.798389911651611px;
+  left: 9.355291366577148px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector30 {
+  top: 5.681386470794678px;
+  left: 8.171164512634277px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector31 {
+  top: 4.80419921875px;
+  left: 9.701526641845703px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector32 {
+  top: 5.361881256103516px;
+  left: 8.275035858154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector33 {
+  top: 4.897146224975586px;
+  left: 9.798473358154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector34 {
+  top: 5.094658374786377px;
+  left: 8.468927383422852px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector35 {
+  top: 5.077230930328369px;
+  left: 9.833096504211426px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector36 {
+  top: 4.885527610778809px;
+  left: 8.752840995788574px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector37 {
+  top: 5.321217060089111px;
+  left: 9.874645233154297px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector38 {
+  top: 4.763535022735596px;
+  left: 9.092151641845703px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector39 {
+  top: 5.617485523223877px;
+  left: 9.90234375px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector40 {
+  top: 4.722870349884033px;
+  left: 9.479935646057129px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector41 {
+  top: 5.954418659210205px;
+  left: 9.916193008422852px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector42 {
+  top: 4.775153160095215px;
+  left: 9.874645233154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector43 {
+  top: 6.1286940574646px;
+  left: 9.923117637634277px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector44 {
+  top: 4.908764362335205px;
+  left: 10.255504608154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector45 {
+  top: 6.163549423217773px;
+  left: 9.916193008422852px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector46 {
+  top: 5.123704433441162px;
+  left: 10.594815254211426px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector47 {
+  top: 6.198404312133789px;
+  left: 9.90234375px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector48 {
+  top: 5.396736145019531px;
+  left: 10.878728866577148px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector49 {
+  top: 6.227450370788574px;
+  left: 9.874645233154297px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector50 {
+  top: 5.716241836547852px;
+  left: 11.072620391845703px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector51 {
+  top: 6.244877815246582px;
+  left: 9.833096504211426px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector52 {
+  top: 6.05898380279541px;
+  left: 11.176491737365723px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector53 {
+  top: 6.256496429443359px;
+  left: 9.798473358154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector54 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 12px;
+  opacity: 0.20;
+  position: absolute;
+}
+.register-seller2-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 10px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-scrap3removebgpreview2 {
+  top: 52px;
+  left: 28px;
+  width: 47px;
+  height: 40px;
+  position: absolute;
+}
+.register-seller2-frame1 {
+  gap: 25px;
+  top: 146px;
+  left: 52px;
+  width: 287px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.register-seller2-text02 {
+  color: rgba(255, 255, 255, 1);
+  width: 287px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-text07 {
+  top: 61px;
+  left: 67px;
+  color: rgba(247, 251, 255, 1);
+  width: 179px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-frame2 {
+  gap: 30px;
+  top: 224px;
+  left: 52px;
+  width: 457px;
+  height: 350px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.register-seller2-morebuyers {
+  gap: 26px;
+  display: flex;
+  align-items: flex-start;
+}
+.register-seller2-icon {
+  width: 50px;
+  height: 37px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-group {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.register-seller2-vector55 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 37px;
+  position: absolute;
+}
+.register-seller2-text09 {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.register-seller2-text10 {
+  color: rgba(255, 255, 255, 1);
+  width: 146px;
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-text12 {
+  color: var(--dl-color-gray-shadedwhite);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-zerocost {
+  gap: 26px;
+  display: flex;
+  align-items: flex-start;
+}
+.register-seller2-icon1 {
+  width: 50px;
+  height: 40.98360824584961px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-group1 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 40.98360824584961px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.register-seller2-vector56 {
+  top: 25.41800308227539px;
+  left: 25.512495040893555px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.register-seller2-vector57 {
+  top: 20.097326278686523px;
+  left: 17.53510093688965px;
+  width: 11px;
+  height: 2px;
+  position: absolute;
+}
+.register-seller2-vector58 {
+  top: 25.41800308227539px;
+  left: 19.262495040893555px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.register-seller2-vector59 {
+  top: 13.792143821716309px;
+  left: 16.284879684448242px;
+  width: 13px;
+  height: 2px;
+  position: absolute;
+}
+.register-seller2-vector60 {
+  top: 0px;
+  left: 9.76522445678711px;
+  width: 30px;
+  height: 32px;
+  position: absolute;
+}
+.register-seller2-vector61 {
+  top: 16.944734573364258px;
+  left: 16.90873908996582px;
+  width: 12px;
+  height: 2px;
+  position: absolute;
+}
+.register-seller2-vector62 {
+  top: 3.1525909900665283px;
+  left: 33.9848747253418px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.register-seller2-vector63 {
+  top: 3.1525909900665283px;
+  left: 29.297374725341797px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.register-seller2-vector64 {
+  top: 9.851286888122559px;
+  left: 0px;
+  width: 50px;
+  height: 31px;
+  position: absolute;
+}
+.register-seller2-text14 {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.register-seller2-text15 {
+  color: rgba(255, 255, 255, 1);
+  width: 146px;
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-text17 {
+  color: var(--dl-color-gray-shadedwhite);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-easytouse {
+  gap: 26px;
+  display: flex;
+  align-items: flex-start;
+}
+.register-seller2-icon2 {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-group19 {
+  top: 0px;
+  left: 0px;
+  width: 50.00000762939453px;
+  height: 49.999996185302734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.register-seller2-vector65 {
+  top: 34.44001388549805px;
+  left: 4.535003185272217px;
+  width: 11px;
+  height: 12px;
+  position: absolute;
+}
+.register-seller2-vector66 {
+  top: 29.87751007080078px;
+  left: 21.842241287231445px;
+  width: 11px;
+  height: 16px;
+  position: absolute;
+}
+.register-seller2-vector67 {
+  top: 23.704708099365234px;
+  left: 39.14948272705078px;
+  width: 11px;
+  height: 23px;
+  position: absolute;
+}
+.register-seller2-vector68 {
+  top: 7.456688404083252px;
+  left: 3.857093334197998px;
+  width: 45px;
+  height: 20px;
+  position: absolute;
+}
+.register-seller2-vector69 {
+  top: 0px;
+  left: 0px;
+  width: 1px;
+  height: 5px;
+  position: absolute;
+}
+.register-seller2-vector70 {
+  top: 6.850272178649902px;
+  left: 0px;
+  width: 1px;
+  height: 5px;
+  position: absolute;
+}
+.register-seller2-vector71 {
+  top: 13.699140548706055px;
+  left: 0px;
+  width: 1px;
+  height: 5px;
+  position: absolute;
+}
+.register-seller2-vector72 {
+  top: 20.550565719604492px;
+  left: 0px;
+  width: 1px;
+  height: 5px;
+  position: absolute;
+}
+.register-seller2-vector73 {
+  top: 27.400712966918945px;
+  left: 0px;
+  width: 1px;
+  height: 5px;
+  position: absolute;
+}
+.register-seller2-vector74 {
+  top: 34.25214767456055px;
+  left: 0px;
+  width: 1px;
+  height: 5px;
+  position: absolute;
+}
+.register-seller2-vector75 {
+  top: 41.10102081298828px;
+  left: 0px;
+  width: 1px;
+  height: 5px;
+  position: absolute;
+}
+.register-seller2-vector76 {
+  top: 48.72947692871094px;
+  left: 45.20637512207031px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector77 {
+  top: 48.72947692871094px;
+  left: 38.06698226928711px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector78 {
+  top: 48.72947692871094px;
+  left: 30.928855895996094px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector79 {
+  top: 48.72947692871094px;
+  left: 23.789461135864258px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector80 {
+  top: 48.72947692871094px;
+  left: 16.65006446838379px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector81 {
+  top: 48.72947692871094px;
+  left: 9.510669708251953px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-vector82 {
+  top: 48.72947692871094px;
+  left: 2.372542381286621px;
+  width: 5px;
+  height: 1px;
+  position: absolute;
+}
+.register-seller2-text19 {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.register-seller2-text20 {
+  color: rgba(255, 255, 255, 1);
+  width: 146px;
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-text22 {
+  color: var(--dl-color-gray-shadedwhite);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-growbusiness {
+  gap: 25px;
+  display: flex;
+  align-items: flex-start;
+}
+.register-seller2-icon3 {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-group20 {
+  top: 0px;
+  left: 0px;
+  width: 49.999996185302734px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.register-seller2-vector83 {
+  top: 31.32564353942871px;
+  left: 8.277334031950648e-14px;
+  width: 12px;
+  height: 16px;
+  position: absolute;
+}
+.register-seller2-vector84 {
+  top: 33.205074310302734px;
+  left: 13.382166862487793px;
+  width: 37px;
+  height: 17px;
+  position: absolute;
+}
+.register-seller2-vector85 {
+  top: 22.243724822998047px;
+  left: 33.706329345703125px;
+  width: 12px;
+  height: 10px;
+  position: absolute;
+}
+.register-seller2-vector86 {
+  top: 22.242698669433594px;
+  left: 24.226207733154297px;
+  width: 6px;
+  height: 10px;
+  position: absolute;
+}
+.register-seller2-vector87 {
+  top: 22.242698669433594px;
+  left: 31.933374404907227px;
+  width: 6px;
+  height: 10px;
+  position: absolute;
+}
+.register-seller2-vector88 {
+  top: 22.242698669433594px;
+  left: 16.07204246520996px;
+  width: 12px;
+  height: 10px;
+  position: absolute;
+}
+.register-seller2-vector89 {
+  top: 12.289353370666504px;
+  left: 15.024372100830078px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.register-seller2-vector90 {
+  top: 12.289664268493652px;
+  left: 23.40003776550293px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.register-seller2-vector91 {
+  top: 12.289254188537598px;
+  left: 31.933557510375977px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.register-seller2-vector92 {
+  top: 12.289254188537598px;
+  left: 40.10915756225586px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.register-seller2-vector93 {
+  top: 2.069333507987662e-14px;
+  left: 33.706546783447266px;
+  width: 12px;
+  height: 10px;
+  position: absolute;
+}
+.register-seller2-vector94 {
+  top: 0.011076780036091805px;
+  left: 31.932828903198242px;
+  width: 6px;
+  height: 10px;
+  position: absolute;
+}
+.register-seller2-vector95 {
+  top: 0.0039599197916686535px;
+  left: 24.22653579711914px;
+  width: 6px;
+  height: 10px;
+  position: absolute;
+}
+.register-seller2-vector96 {
+  top: 0.007901248522102833px;
+  left: 16.07204246520996px;
+  width: 12px;
+  height: 10px;
+  position: absolute;
+}
+.register-seller2-text24 {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.register-seller2-text25 {
+  color: rgba(255, 255, 255, 1);
+  width: 235px;
+  height: auto;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-text27 {
+  color: var(--dl-color-gray-shadedwhite);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-rectangle867 {
+  top: 46px;
+  left: 659px;
+  width: 611px;
+  height: 604px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 20px;
+}
+.register-seller2-text29 {
+  top: 603px;
+  left: 845px;
+  color: rgba(0, 0, 0, 1);
+  width: 246px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Light;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 300;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-text31 {
+  top: 67px;
+  left: 719px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Open Sans";
+  font-weight: 400;
+  line-height: 33px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-text32 {
+  color: #000000;
+  font-weight: 400;
+}
+.register-seller2-text33 {
+  color: rgba(236, 81, 18, 0.97);
+  font-weight: 400;
+}
+.register-seller2-text34 {
+  color: rgba(236, 81, 18, 0.97);
+}
+.register-seller2-text35 {
+  top: 94px;
+  left: 721px;
+  color: var(--dl-color-gray-darkgray);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-frame3 {
+  gap: 10px;
+  top: 553px;
+  left: 721px;
+  width: 129px;
+  display: flex;
+  padding: 10px 39px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(62, 128, 224, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: var(--dl-color-primary-lightblue);
+}
+.register-seller2-text37 {
+  gap: 7px;
+  display: flex;
+  align-items: center;
+}
+.register-seller2-text38 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: center;
+  line-height: 25px;
+}
+.register-seller2-text40 {
+  top: 91px;
+  left: 45px;
+  color: rgba(255, 255, 255, 1);
+  width: 207px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-rectangle865 {
+  top: 659px;
+  left: 1px;
+  width: 1535px;
+  height: 43px;
+  position: absolute;
+}
+.register-seller2-text42 {
+  top: 668px;
+  left: 660px;
+  color: var(--dl-color-gray-white);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-text44 {
+  top: 668px;
+  left: 1142px;
+  color: var(--dl-color-gray-white);
+  width: 358px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.register-seller2-frame4 {
+  gap: 45px;
+  top: 659px;
+  left: 129px;
+  width: 91px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.register-seller2-maskgroup {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.register-seller2-ellipse14 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.register-seller2-iso60x601 {
+  top: 0px;
+  left: 5px;
+  width: 34px;
+  height: 33px;
+  position: absolute;
+}
+.register-seller2-maskgroup1 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.register-seller2-ellipse141 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.register-seller2-iso60x6011 {
+  top: -1px;
+  left: -4px;
+  width: 36px;
+  height: 35px;
+  position: absolute;
+}
+.register-seller2-email {
+  top: 130px;
+  left: 721px;
+  width: 487px;
+  height: 81px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-text46 {
+  color: var(--dl-color-gray-darkgray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 22px;
+}
+.register-seller2-box {
+  top: 27px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.register-seller2-psswd {
+  top: 216px;
+  left: 721px;
+  width: 487px;
+  height: 77px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-text48 {
+  color: var(--dl-color-gray-darkgray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 22px;
+}
+.register-seller2-box1 {
+  top: 32px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-rectangle61 {
+  top: 0px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.register-seller2-businessname {
+  top: 298px;
+  left: 721px;
+  width: 487px;
+  height: 77px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-text50 {
+  color: var(--dl-color-gray-darkgray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 22px;
+}
+.register-seller2-box2 {
+  top: 32px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-rectangle62 {
+  top: 0px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.register-seller2-bankacc {
+  top: 380px;
+  left: 721px;
+  width: 487px;
+  height: 77px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-text52 {
+  color: var(--dl-color-gray-darkgray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 22px;
+}
+.register-seller2-box3 {
+  top: 32px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-rectangle63 {
+  top: 0px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.register-seller2-gstn {
+  top: 462px;
+  left: 721px;
+  width: 487px;
+  height: 77px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-text54 {
+  color: var(--dl-color-gray-darkgray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 22px;
+}
+.register-seller2-gstbutton {
+  top: 32px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-seller2-rectangle64 {
+  top: 0px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.register-seller2-frame5 {
+  gap: 10px;
+  top: 553px;
+  left: 1079px;
+  width: 129px;
+  display: flex;
+  padding: 10px 39px 10px 33px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(62, 128, 224, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: var(--dl-color-primary-lightblue);
+}
+.register-seller2-text56 {
+  gap: 7px;
+  display: flex;
+  align-items: center;
+}
+.register-seller2-text57 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: center;
+  line-height: 25px;
+}

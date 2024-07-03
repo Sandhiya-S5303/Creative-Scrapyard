@@ -1,0 +1,367 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 153.5rem;
+}.login-buyer-4sN {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/black1-2-bg-oF2.png');
+  background-color: #ffffff;
+}
+.login-buyer-4sN .item--P8x {
+  box-sizing: border-box;
+  padding: 1rem 71.525rem 0.879rem 71.525rem;
+  width: 100%;
+  height: 3.1rem;
+  background-color: #777777;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .item--P8x .frame-427319517-UgC {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.login-buyer-4sN .item--P8x .frame-427319517-UgC .group-2-oTa {
+  margin-right: 1rem;
+  width: 1.95rem;
+  height: 1.2211rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .item--P8x .frame-427319517-UgC .made-for-india-HtY {
+  margin-bottom: 0.0008rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp {
+  box-sizing: border-box;
+  padding: 2.1rem 2.8rem 11.6rem 2.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-bvyr-RtG {
+  margin: 0rem 126.95rem 0.3rem 0rem;
+  width: calc(100% - 126.95rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-bvyr-RtG .scrap3-removebg-preview-2-Yhz {
+  margin-right: 0.0033rem;
+  width: 4.7467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-bvyr-RtG .scrap-symphony-sanctuary-3Pr {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .creative-scrapyard-8AQ {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ {
+  margin: 0rem 38.7rem 0rem 41.8rem;
+  box-sizing: border-box;
+  padding: 3.1rem 10.1rem 2.4rem 8.6rem;
+  width: calc(100% - 80.5rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.3rem #000000;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-1p6k-Wwe {
+  margin: 0rem 7.4rem 2.2rem 0rem;
+  width: 40.5rem;
+  height: 4.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-1p6k-Wwe .login-to-your-account-and-start-buying-products-on-creative-scrapyard-Ese {
+  width: 40.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 2.4rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 2.0833333333;
+  letter-spacing: 0.012rem;
+  color: #555555;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-1p6k-Wwe .welcome-to-creative-scrapyard-uD6 {
+  width: 31.1rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.65;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-1p6k-Wwe .welcome-to-creative-scrapyard-uD6 .welcome-to-creative-scrapyard-uD6-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.65;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-1p6k-Wwe .welcome-to-creative-scrapyard-uD6 .welcome-to-creative-scrapyard-uD6-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.65;
+  letter-spacing: 0.02rem;
+  color: #ff731d;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG {
+  width: 100%;
+  height: 25.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .item--bde {
+  width: 12.9rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 21.2rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3f80e0;
+  box-sizing: border-box;
+  background-color: #3f80e0;
+  border-radius: 0.5rem;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .form-e68 {
+  width: 48.7rem;
+  height: 25.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  row-gap: 3rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .form-e68 .email-N28 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .form-e68 .email-N28 .email-Ki4 {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  letter-spacing: 0.016rem;
+  color: #555555;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .form-e68 .email-N28 .box-2sN {
+  width: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .form-e68 .email-N28 .box-2sN .rectangle-6-zpC {
+  width: 100%;
+  height: 4.5rem;
+  border: solid 0.1rem #dddddd;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .form-e68 .psswd-uwA {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .form-e68 .psswd-uwA .password-H2c {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  letter-spacing: 0.016rem;
+  color: #555555;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .form-e68 .psswd-uwA .box-zxc {
+  width: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .form-e68 .psswd-uwA .box-zxc .rectangle-6-NJx {
+  width: 100%;
+  height: 4.5rem;
+  border: solid 0.1rem #dddddd;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.login-buyer-4sN .auto-group-43yv-Lrp .auto-group-5rcc-RQQ .auto-group-u9lp-rAG .form-e68 .next-button-JTW {
+  width: 12.5rem;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  letter-spacing: 0.018rem;
+  color: #f6fbff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3f80e0;
+  box-sizing: border-box;
+  background-color: #3f80e0;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-hn2q-HaL {
+  box-sizing: border-box;
+  padding: 0.4rem 12rem 0rem 12.8rem;
+  width: 100%;
+  height: 5.7094rem;
+  display: flex;
+  align-items: center;
+  background-color: #5b5b5b;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-hn2q-HaL .item--bL8 {
+  margin-right: 23.2333rem;
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-hn2q-HaL .item--bL8 .mask-group-ivY {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-hn2q-HaL .item--bL8 .mask-group-GBN {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-hn2q-HaL .terms-condition-privacy-policy-bDe {
+  margin: 0rem 29.7rem 2.109rem 0rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-buyer-4sN .auto-group-hn2q-HaL .scrap-symphony-sanctuary-all-rights-reserved-TWk {
+  margin-bottom: 2.1094rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

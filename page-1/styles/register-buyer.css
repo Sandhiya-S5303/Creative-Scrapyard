@@ -1,0 +1,504 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 153.5rem;
+}.register-buyer-dfr {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/black1-2-bg-n5a.png');
+  background-color: #ffffff;
+}
+.register-buyer-dfr .item--Wje {
+  box-sizing: border-box;
+  padding: 1rem 71.525rem 0.879rem 71.525rem;
+  width: 100%;
+  height: 3.1rem;
+  background-color: #777777;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .item--Wje .frame-427319517-RLp {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.register-buyer-dfr .item--Wje .frame-427319517-RLp .group-2-Zhv {
+  margin-right: 1rem;
+  width: 1.95rem;
+  height: 1.2211rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .item--Wje .frame-427319517-RLp .made-for-india-UZz {
+  margin-bottom: 0.0008rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 {
+  margin: 0rem 46.2rem 0rem 2.8rem;
+  width: calc(100% - 49rem);
+  height: 61rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-syhr-UyJ {
+  margin: 1.2rem 21.6rem 0rem 0rem;
+  width: 21.8rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-syhr-UyJ .auto-group-dgex-zwe {
+  margin: 0rem 0.85rem 0.3rem 0rem;
+  width: calc(100% - 0.85rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-syhr-UyJ .auto-group-dgex-zwe .scrap3-removebg-preview-2-6zg {
+  margin-right: 0.0033rem;
+  width: 4.7467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-syhr-UyJ .auto-group-dgex-zwe .scrap-symphony-sanctuary-pQt {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-syhr-UyJ .creative-scrapyard-796 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY {
+  box-sizing: border-box;
+  padding: 3.1rem 5rem 1.5rem 4.5rem;
+  width: 61.1rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.3rem #000000;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-t9he-iua {
+  margin: 0rem 9.4rem 2.1rem 0rem;
+  width: 42.2rem;
+  height: 5.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-t9he-iua .welcome-to-creative-scrapyard-dFr {
+  width: 33.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.65;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-t9he-iua .welcome-to-creative-scrapyard-dFr .welcome-to-creative-scrapyard-dFr-sub-0 {
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-t9he-iua .welcome-to-creative-scrapyard-dFr .welcome-to-creative-scrapyard-dFr-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.65;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-t9he-iua .welcome-to-creative-scrapyard-dFr .welcome-to-creative-scrapyard-dFr-sub-2 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.65;
+  letter-spacing: 0.02rem;
+  color: #ff731d;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-t9he-iua .create-your-account-and-start-buying-products-on-creative-scrapyard-um6 {
+  width: 39.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 2.6rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 2.0833333333;
+  letter-spacing: 0.012rem;
+  color: #555555;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ {
+  margin: 0rem 0rem 0.5rem 2.7rem;
+  width: 48.9rem;
+  height: 45.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS {
+  width: 48.75rem;
+  height: 45.5rem;
+  position: absolute;
+  left: 0.15rem;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .phone-Rcx {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .phone-Rcx .user-name-zAG {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  letter-spacing: 0.016rem;
+  color: #555555;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .phone-Rcx .phone-button-tmS {
+  margin-left: 0.05rem;
+  width: 48.7rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .phone-Rcx .phone-button-tmS .rectangle-6-SY4 {
+  width: 100%;
+  height: 4.5rem;
+  border: solid 0.1rem #dddddd;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .auto-group-2anx-Zcg {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.5rem 0.05rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .auto-group-2anx-Zcg .email-Hoa {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .auto-group-2anx-Zcg .email-Hoa .email-rLt {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  letter-spacing: 0.016rem;
+  color: #555555;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .auto-group-2anx-Zcg .email-Hoa .box-mTr {
+  width: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .auto-group-2anx-Zcg .email-Hoa .box-mTr .rectangle-6-Xxp {
+  width: 100%;
+  height: 4.5rem;
+  border: solid 0.1rem #dddddd;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .auto-group-2anx-Zcg .psswd-rkC {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .auto-group-2anx-Zcg .psswd-rkC .password-1sz {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  letter-spacing: 0.016rem;
+  color: #555555;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .auto-group-2anx-Zcg .psswd-rkC .box-LQU {
+  width: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .auto-group-2anx-Zcg .psswd-rkC .box-LQU .rectangle-6-uCg {
+  width: 100%;
+  height: 4.5rem;
+  border: solid 0.1rem #dddddd;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .business-name-DUG {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .business-name-DUG .re-enter-password-N6G {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  letter-spacing: 0.016rem;
+  color: #555555;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .business-name-DUG .box-GxL {
+  margin-left: 0.05rem;
+  width: 48.7rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .business-name-DUG .box-GxL .rectangle-6-RKS {
+  width: 100%;
+  height: 4.5rem;
+  border: solid 0.1rem #dddddd;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .bank-acc-kMi {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .bank-acc-kMi .phone-W5z {
+  margin-bottom: 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  letter-spacing: 0.016rem;
+  color: #555555;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .bank-acc-kMi .box-Rik {
+  margin-left: 0.05rem;
+  width: 48.7rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .bank-acc-kMi .box-Rik .rectangle-6-BT2 {
+  width: 100%;
+  height: 4.5rem;
+  border: solid 0.1rem #dddddd;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .form-JHS .next-button-X16 {
+  width: 14.8rem;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  letter-spacing: 0.018rem;
+  color: #f6fbff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3f80e0;
+  box-sizing: border-box;
+  background-color: #3f80e0;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .auto-group-gjrs-moJ .next-button-Apk {
+  width: 12.9rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 0;
+  top: 41rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  letter-spacing: 0.018rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3f80e0;
+  box-sizing: border-box;
+  background-color: #3f80e0;
+  border-radius: 0.5rem;
+}
+.register-buyer-dfr .auto-group-r5qg-mZ6 .auto-group-noja-crY .already-have-an-account-login-dTS {
+  margin-left: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 2;
+  letter-spacing: 0.016rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-p75n-6rp {
+  box-sizing: border-box;
+  padding: 0.4rem 12rem 0rem 12.8rem;
+  width: 100%;
+  height: 5.7094rem;
+  display: flex;
+  align-items: center;
+  background-color: #5b5b5b;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-p75n-6rp .item--cKN {
+  margin-right: 23.2333rem;
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-p75n-6rp .item--cKN .mask-group-wcY {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-p75n-6rp .item--cKN .mask-group-ga8 {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-p75n-6rp .terms-condition-privacy-policy-ELk {
+  margin: 0rem 29.7rem 2.109rem 0rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-buyer-dfr .auto-group-p75n-6rp .scrap-symphony-sanctuary-all-rights-reserved-X4x {
+  margin-bottom: 2.1094rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="english">
+
+<head>
+  <title>Register-seller2</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <meta property="twitter:card" content="summary_large_image" />
+
+  <style data-tag="reset-style-sheet">
+    html {
+      line-height: 1.15;
+    }
+
+    body {
+      margin: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+      border-width: 0;
+      border-style: solid;
+    }
+
+    p,
+    li,
+    ul,
+    pre,
+    div,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    figure,
+    blockquote,
+    figcaption {
+      margin: 0;
+      padding: 0;
+    }
+
+    button {
+      background-color: transparent;
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font-family: inherit;
+      font-size: 100%;
+      line-height: 1.15;
+      margin: 0;
+    }
+
+    button,
+    select {
+      text-transform: none;
+    }
+
+    button::-moz-focus-inner,
+    [type="button"]::-moz-focus-inner,
+    [type="reset"]::-moz-focus-inner,
+    [type="submit"]::-moz-focus-inner {
+      border-style: none;
+      padding: 0;
+    }
+
+    button:-moz-focus,
+    [type="button"]:-moz-focus,
+    [type="reset"]:-moz-focus,
+    [type="submit"]:-moz-focus {
+      outline: 1px dotted ButtonText;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: inherit;
+    }
+
+    input {
+      padding: 2px 4px;
+    }
+
+    img {
+      display: block;
+    }
+
+    html {
+      scroll-behavior: smooth
+    }
+  </style>
+  <style data-tag="default-style-sheet">
+    html {
+      font-family: Inter;
+      font-size: 16px;
+    }
+
+    body {
+      font-weight: 400;
+      font-style: normal;
+      text-decoration: none;
+      text-transform: none;
+      letter-spacing: normal;
+      line-height: 1.15;
+      color: var(--dl-color-gray-black);
+      background-color: var(--dl-color-gray-white);
+
+    }
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/animate.css@4.1.1/animate.css" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet" href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css" />
+</head>
+
+<body>
+  <link rel="stylesheet" href="./css/s-style.css" />
+  <div>
+    <link href="./css/register-seller2.css" rel="stylesheet" />
+
+    <div class="register-seller2-container">
+      <div class="register-seller2-register-seller2">
+        <img alt="black121420" src="public-seller/external/black121420-nmsa-800h.png"
+          class="register-seller2-black12" />
+        <div class="register-seller2-frame">
+          <div class="register-seller2-frame427319517">
+            <div class="register-seller2-group2">
+              <img alt="Vector1420" src="public-seller/external/vector1420-vbns.svg" class="register-seller2-vector" />
+              <img alt="Vector1421" src="public-seller/external/vector1421-s8en.svg"
+                class="register-seller2-vector01" />
+              <img alt="Vector1421" src="public-seller/external/vector1421-3hui.svg"
+                class="register-seller2-vector02" />
+              <img alt="Vector1421" src="public-seller/external/vector1421-49zk.svg"
+                class="register-seller2-vector03" />
+              <img alt="Vector1421" src="public-seller/external/vector1421-chm5.svg"
+                class="register-seller2-vector04" />
+              <img alt="Vector1421" src="public-seller/external/vector1421-okym.svg"
+                class="register-seller2-vector05" />
+              <img alt="Vector1421" src="public-seller/external/vector1421-xmnh.svg"
+                class="register-seller2-vector06" />
+              <img alt="Vector1421" src="public-seller/external/vector1421-rn3b.svg"
+                class="register-seller2-vector07" />
+              <img alt="Vector1421" src="public-seller/external/vector1421-q6a.svg" class="register-seller2-vector08" />
+              <img alt="Vector1421" src="public-seller/external/vector1421-gzdm.svg"
+                class="register-seller2-vector09" />
+              <img alt="Vector1421" src="public-seller/external/vector1421-75a.svg" class="register-seller2-vector10" />
+              <img alt="Vector1422" src="public-seller/external/vector1422-lbva.svg"
+                class="register-seller2-vector11" />
+              <img alt="Vector1422" src="public-seller/external/vector1422-7z5h.svg"
+                class="register-seller2-vector12" />
+              <img alt="Vector1422" src="public-seller/external/vector1422-q38f.svg"
+                class="register-seller2-vector13" />
+              <img alt="Vector1422" src="public-seller/external/vector1422-8rwr.svg"
+                class="register-seller2-vector14" />
+              <img alt="Vector1422" src="public-seller/external/vector1422-lv3.svg" class="register-seller2-vector15" />
+              <img alt="Vector1422" src="public-seller/external/vector1422-1bua.svg"
+                class="register-seller2-vector16" />
+              <img alt="Vector1422" src="public-seller/external/vector1422-rulp.svg"
+                class="register-seller2-vector17" />
+              <img alt="Vector1422" src="public-seller/external/vector1422-p0p4.svg"
+                class="register-seller2-vector18" />
+              <img alt="Vector1422" src="public-seller/external/vector1422-ltqj.svg"
+                class="register-seller2-vector19" />
+              <img alt="Vector1422" src="public-seller/external/vector1422-j0k.svg" class="register-seller2-vector20" />
+              <img alt="Vector1423" src="public-seller/external/vector1423-0jsh.svg"
+                class="register-seller2-vector21" />
+              <img alt="Vector1423" src="public-seller/external/vector1423-71d7.svg"
+                class="register-seller2-vector22" />
+              <img alt="Vector1423" src="public-seller/external/vector1423-v5xf.svg"
+                class="register-seller2-vector23" />
+              <img alt="Vector1423" src="public-seller/external/vector1423-k8d.svg" class="register-seller2-vector24" />
+              <img alt="Vector1423" src="public-seller/external/vector1423-s6b5.svg"
+                class="register-seller2-vector25" />
+              <img alt="Vector1423" src="public-seller/external/vector1423-j7x.svg" class="register-seller2-vector26" />
+              <img alt="Vector1423" src="public-seller/external/vector1423-vcf.svg" class="register-seller2-vector27" />
+              <img alt="Vector1423" src="public-seller/external/vector1423-0e8.svg" class="register-seller2-vector28" />
+              <img alt="Vector1423" src="public-seller/external/vector1423-v1at.svg"
+                class="register-seller2-vector29" />
+              <img alt="Vector1423" src="public-seller/external/vector1423-emvu.svg"
+                class="register-seller2-vector30" />
+              <img alt="Vector1424" src="public-seller/external/vector1424-wibf.svg"
+                class="register-seller2-vector31" />
+              <img alt="Vector1424" src="public-seller/external/vector1424-w839.svg"
+                class="register-seller2-vector32" />
+              <img alt="Vector1424" src="public-seller/external/vector1424-d1pg.svg"
+                class="register-seller2-vector33" />
+              <img alt="Vector1424" src="public-seller/external/vector1424-ug9.svg" class="register-seller2-vector34" />
+              <img alt="Vector1424" src="public-seller/external/vector1424-6oz8.svg"
+                class="register-seller2-vector35" />
+              <img alt="Vector1424" src="public-seller/external/vector1424-ipah.svg"
+                class="register-seller2-vector36" />
+              <img alt="Vector1424" src="public-seller/external/vector1424-yldq.svg"
+                class="register-seller2-vector37" />
+              <img alt="Vector1424" src="public-seller/external/vector1424-jwo.svg" class="register-seller2-vector38" />
+              <img alt="Vector1424" src="public-seller/external/vector1424-cdpr.svg"
+                class="register-seller2-vector39" />
+              <img alt="Vector1424" src="public-seller/external/vector1424-66p.svg" class="register-seller2-vector40" />
+              <img alt="Vector1425" src="public-seller/external/vector1425-ow0i.svg"
+                class="register-seller2-vector41" />
+              <img alt="Vector1425" src="public-seller/external/vector1425-ylrn.svg"
+                class="register-seller2-vector42" />
+              <img alt="Vector1425" src="public-seller/external/vector1425-zbxo.svg"
+                class="register-seller2-vector43" />
+              <img alt="Vector1425" src="public-seller/external/vector1425-oe64k.svg"
+                class="register-seller2-vector44" />
+              <img alt="Vector1425" src="public-seller/external/vector1425-rpe.svg" class="register-seller2-vector45" />
+              <img alt="Vector1425" src="public-seller/external/vector1425-kq4h.svg"
+                class="register-seller2-vector46" />
+              <img alt="Vector1425" src="public-seller/external/vector1425-acre.svg"
+                class="register-seller2-vector47" />
+              <img alt="Vector1425" src="public-seller/external/vector1425-mzi.svg" class="register-seller2-vector48" />
+              <img alt="Vector1425" src="public-seller/external/vector1425-pftw.svg"
+                class="register-seller2-vector49" />
+              <img alt="Vector1425" src="public-seller/external/vector1425-021h.svg"
+                class="register-seller2-vector50" />
+              <img alt="Vector1426" src="public-seller/external/vector1426-t6b.svg" class="register-seller2-vector51" />
+              <img alt="Vector1426" src="public-seller/external/vector1426-9tj5.svg"
+                class="register-seller2-vector52" />
+              <img alt="Vector1426" src="public-seller/external/vector1426-h44.svg" class="register-seller2-vector53" />
+              <img alt="Vector1426" src="public-seller/external/vector1426-0xx8.svg"
+                class="register-seller2-vector54" />
+            </div>
+            <span class="register-seller2-text">
+              <span>Made For India</span>
+            </span>
+          </div>
+        </div>
+        <img alt="Scrap3removebgpreview21426" src="public-seller/external/scrap3removebgpreview21426-7wni-200h.png"
+          class="register-seller2-scrap3removebgpreview2" />
+        <div class="register-seller2-frame1">
+          <span class="register-seller2-text02">
+            <span>
+              <span>Grow your business with new customers on the</span>
+              <br />
+              <span>SCRAP SYMPHOY SANCTUARY network</span>
+            </span>
+          </span>
+        </div>
+        <span class="register-seller2-text07">
+          <span>Scrap Symphony Sanctuary</span>
+        </span>
+        <div class="register-seller2-frame2">
+          <div class="register-seller2-morebuyers">
+            <div class="register-seller2-icon">
+              <div class="register-seller2-group">
+                <img alt="Vector1428" src="public-seller/external/vector1428-krf.svg"
+                  class="register-seller2-vector55" />
+              </div>
+            </div>
+            <div class="register-seller2-text09">
+              <span class="register-seller2-text10">
+                <span>MORE BUYERS</span>
+              </span>
+              <span class="register-seller2-text12">
+                <span>Access to the entire buyer universe</span>
+              </span>
+            </div>
+          </div>
+          <div class="register-seller2-zerocost">
+            <div class="register-seller2-icon1">
+              <div class="register-seller2-group1">
+                <img alt="Vector1428" src="public-seller/external/vector1428-452q.svg"
+                  class="register-seller2-vector56" />
+                <img alt="Vector1429" src="public-seller/external/vector1429-ffd.svg"
+                  class="register-seller2-vector57" />
+                <img alt="Vector1429" src="public-seller/external/vector1429-b9cw.svg"
+                  class="register-seller2-vector58" />
+                <img alt="Vector1429" src="public-seller/external/vector1429-ooip.svg"
+                  class="register-seller2-vector59" />
+                <img alt="Vector1429" src="public-seller/external/vector1429-081l.svg"
+                  class="register-seller2-vector60" />
+                <img alt="Vector1429" src="public-seller/external/vector1429-5cucg.svg"
+                  class="register-seller2-vector61" />
+                <img alt="Vector1429" src="public-seller/external/vector1429-ejze.svg"
+                  class="register-seller2-vector62" />
+                <img alt="Vector1429" src="public-seller/external/vector1429-udj.svg"
+                  class="register-seller2-vector63" />
+                <img alt="Vector1429" src="public-seller/external/vector1429-w6d.svg"
+                  class="register-seller2-vector64" />
+              </div>
+            </div>
+            <div class="register-seller2-text14">
+              <span class="register-seller2-text15">
+                <span>ZERO COST</span>
+              </span>
+              <span class="register-seller2-text17">
+                <span>No upfront cost to get started</span>
+              </span>
+            </div>
+          </div>
+          <div class="register-seller2-easytouse">
+            <div class="register-seller2-icon2">
+              <div class="register-seller2-group19">
+                <img alt="Vector1430" src="public-seller/external/vector1430-84dp.svg"
+                  class="register-seller2-vector65" />
+                <img alt="Vector1430" src="public-seller/external/vector1430-h2gw.svg"
+                  class="register-seller2-vector66" />
+                <img alt="Vector1430" src="public-seller/external/vector1430-ope9.svg"
+                  class="register-seller2-vector67" />
+                <img alt="Vector1430" src="public-seller/external/vector1430-p7jb.svg"
+                  class="register-seller2-vector68" />
+                <img alt="Vector1430" src="public-seller/external/vector1430-pihp.svg"
+                  class="register-seller2-vector69" />
+                <img alt="Vector1430" src="public-seller/external/vector1430-s2.svg"
+                  class="register-seller2-vector70" />
+                <img alt="Vector1431" src="public-seller/external/vector1431-xqlo.svg"
+                  class="register-seller2-vector71" />
+                <img alt="Vector1431" src="public-seller/external/vector1431-ev3h.svg"
+                  class="register-seller2-vector72" />
+                <img alt="Vector1431" src="public-seller/external/vector1431-g3un.svg"
+                  class="register-seller2-vector73" />
+                <img alt="Vector1431" src="public-seller/external/vector1431-tu97.svg"
+                  class="register-seller2-vector74" />
+                <img alt="Vector1431" src="public-seller/external/vector1431-81w.svg"
+                  class="register-seller2-vector75" />
+                <img alt="Vector1431" src="public-seller/external/vector1431-oh3.svg"
+                  class="register-seller2-vector76" />
+                <img alt="Vector1431" src="public-seller/external/vector1431-nlpb.svg"
+                  class="register-seller2-vector77" />
+                <img alt="Vector1431" src="public-seller/external/vector1431-a1tg.svg"
+                  class="register-seller2-vector78" />
+                <img alt="Vector1431" src="public-seller/external/vector1431-jz2.svg"
+                  class="register-seller2-vector79" />
+                <img alt="Vector1431" src="public-seller/external/vector1431-3js.svg"
+                  class="register-seller2-vector80" />
+                <img alt="Vector1432" src="public-seller/external/vector1432-m7d.svg"
+                  class="register-seller2-vector81" />
+                <img alt="Vector1432" src="public-seller/external/vector1432-f5mi.svg"
+                  class="register-seller2-vector82" />
+              </div>
+            </div>
+            <div class="register-seller2-text19">
+              <span class="register-seller2-text20">
+                <span>EASY TO USE</span>
+              </span>
+              <span class="register-seller2-text22">
+                <span>Start selling in no time</span>
+              </span>
+            </div>
+          </div>
+          <div class="register-seller2-growbusiness">
+            <div class="register-seller2-icon3">
+              <div class="register-seller2-group20">
+                <img alt="Vector1432" src="public-seller/external/vector1432-zegs.svg"
+                  class="register-seller2-vector83" />
+                <img alt="Vector1432" src="public-seller/external/vector1432-6qs7.svg"
+                  class="register-seller2-vector84" />
+                <img alt="Vector1433" src="public-seller/external/vector1433-5oqk.svg"
+                  class="register-seller2-vector85" />
+                <img alt="Vector1433" src="public-seller/external/vector1433-45nhj.svg"
+                  class="register-seller2-vector86" />
+                <img alt="Vector1433" src="public-seller/external/vector1433-dqbq.svg"
+                  class="register-seller2-vector87" />
+                <img alt="Vector1433" src="public-seller/external/vector1433-iy7.svg"
+                  class="register-seller2-vector88" />
+                <img alt="Vector1433" src="public-seller/external/vector1433-z7kx.svg"
+                  class="register-seller2-vector89" />
+                <img alt="Vector1433" src="public-seller/external/vector1433-m35.svg"
+                  class="register-seller2-vector90" />
+                <img alt="Vector1433" src="public-seller/external/vector1433-wftn.svg"
+                  class="register-seller2-vector91" />
+                <img alt="Vector1433" src="public-seller/external/vector1433-gay9.svg"
+                  class="register-seller2-vector92" />
+                <img alt="Vector1433" src="public-seller/external/vector1433-5n9.svg"
+                  class="register-seller2-vector93" />
+                <img alt="Vector1433" src="public-seller/external/vector1433-0znh.svg"
+                  class="register-seller2-vector94" />
+                <img alt="Vector1434" src="public-seller/external/vector1434-enu.svg"
+                  class="register-seller2-vector95" />
+                <img alt="Vector1434" src="public-seller/external/vector1434-sl1.svg"
+                  class="register-seller2-vector96" />
+              </div>
+            </div>
+            <div class="register-seller2-text24">
+              <span class="register-seller2-text25">
+                <span>GROW TOUR BUSINESS</span>
+              </span>
+              <span class="register-seller2-text27">
+                <span>Promote your business with your own webpage</span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <img alt="Rectangle8671434" src="public-seller/external/rectangle8671434-5hhp-700h.png"
+          class="register-seller2-rectangle867" />
+        <span class="register-seller2-text29">
+          <span>Already have an account ? <a href="login-seller.html"> Login</a></span>
+        </span>
+        <span class="register-seller2-text31">
+          <span class="register-seller2-text32">Get your</span>
+          <span class="register-seller2-text33">Business</span>
+          <span class="register-seller2-text34">Started</span>
+        </span>
+        <span class="register-seller2-text35">
+          <span>Fill in Your Details For Better Connectivity</span>
+        </span>
+
+        <span class="register-seller2-text40">
+          <span>Creative Scrapyard</span>
+        </span>
+        <img alt="Rectangle8651435" src="public-seller/external/rectangle8651435-pm5-200h.png"
+          class="register-seller2-rectangle865" />
+        <span class="register-seller2-text42">
+          <span>Terms &amp; condition || Privacy Policy</span>
+        </span>
+        <span class="register-seller2-text44">
+          <span>© SCRAP SYMPHONY SANCTUARY. All Rights Reserved.</span>
+        </span>
+        <div class="register-seller2-frame4">
+          <div class="register-seller2-maskgroup">
+            <img alt="Ellipse141435" src="public-seller/external/ellipse141435-meb-200h.png"
+              class="register-seller2-ellipse14" />
+            <img alt="ISO60x6011435" src="public-seller/external/iso60x6011435-e05-200h.png"
+              class="register-seller2-iso60x601" />
+          </div>
+          <div class="register-seller2-maskgroup1">
+            <img alt="Ellipse141436" src="public-seller/external/ellipse141436-v2pb-200h.png"
+              class="register-seller2-ellipse141" />
+            <img alt="ISO60x6011436" src="public-seller/external/iso60x6011436-tbgm-200h.png"
+              class="register-seller2-iso60x6011" />
+          </div>
+        </div>
+
+
+        <form action="register-seller2.php" method="post">
+          <div class="register-seller2-email">
+            <span class="register-seller2-text46 parah3reg">
+              <label for="address-input" class="register-seller2-text46 parah3reg">Address</label>
+            </span>
+            <div class="register-seller2-box">
+              <img alt="Rectangle6I143" src="public-seller/external/rectangle6i143-f82o-200h.png"
+                class="register-seller2-rectangle6" />
+              <input type="text" id="address-input" name="address" class="register-seller2-rectangle6" required>
+            </div>
+          </div>
+
+          <div class="register-seller2-psswd">
+            <span class="register-seller2-text48 parah3reg">
+              <span>State / District</span>
+            </span>
+            <div class="register-seller2-box1">
+              <img alt="Rectangle6I143" src="public-seller/external/rectangle6i143-dnn9-200h.png"
+                class="register-seller2-rectangle61" />
+              <input type="text" id="state-input" name="state" class="register-seller2-rectangle61" required>
+            </div>
+          </div>
+
+          <div class="register-seller2-businessname">
+            <span class="register-seller2-text50 parah3reg">
+              <span>City / Village / Town</span>
+            </span>
+            <div class="register-seller2-box2">
+              <img alt="Rectangle6I143" src="public-seller/external/rectangle6i143-70k4-200h.png"
+                class="register-seller2-rectangle62" />
+              <input type="text" id="city-input" name="state" class="register-seller2-rectangle62" required>
+            </div>
+          </div>
+
+          <div class="register-seller2-bankacc">
+            <span class="register-seller2-text52 parah3reg">
+              <span>Pincode</span>
+            </span>
+            <div class="register-seller2-box3">
+              <img alt="Rectangle6I143" src="public-seller/external/rectangle6i143-2q7-200h.png"
+                class="register-seller2-rectangle63" />
+              <input type="tel" id="pincode-input" name="pincode" class="register-seller2-rectangle63" required>
+            </div>
+          </div>
+
+          <div class="register-seller2-gstn">
+            <span class="register-seller2-text54 parah3reg">
+              <span>Additional Contact Information</span>
+            </span>
+            <div class="register-seller2-gstbutton">
+              <img alt="Rectangle6I143" src="public-seller/external/rectangle6i143-ub1-200h.png"
+                class="register-seller2-rectangle64" />
+              <input type="text" id="additional-input" name="additional_info" class="register-seller2-rectangle64">
+            </div>
+          </div>
+
+          <button type="submit" class="register-seller2-frame5">
+            <div class="register-seller2-text56">
+              <span class="register-seller2-text57 parah2reg">
+                <span>Register</span>
+              </span>
+            </div>
+          </button>
+
+
+          <button type="reset" class="register-seller2-frame3">
+            <div class="register-seller2-text37">
+              <span class="register-seller2-text38 parah2reg">
+                <span>Cancel</span>
+              </span>
+            </div>
+          </button>
+        </form>
+
+      </div>
+    </div>
+</body>
+
+</html>

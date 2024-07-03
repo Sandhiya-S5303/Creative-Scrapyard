@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="english">
+
+<head>
+  <title>logout</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <meta property="twitter:card" content="summary_large_image" />
+
+  <style data-tag="reset-style-sheet">
+    html {
+      line-height: 1.15;
+    }
+
+    body {
+      margin: 0;
+    }
+
+    * {
+      box-sizing: border-box;
+      border-width: 0;
+      border-style: solid;
+    }
+
+    p,
+    li,
+    ul,
+    pre,
+    div,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    figure,
+    blockquote,
+    figcaption {
+      margin: 0;
+      padding: 0;
+    }
+
+    button {
+      background-color: transparent;
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      font-family: inherit;
+      font-size: 100%;
+      line-height: 1.15;
+      margin: 0;
+    }
+
+    button,
+    select {
+      text-transform: none;
+    }
+
+
+    button::-moz-focus-inner,
+    [type="button"]::-moz-focus-inner,
+    [type="reset"]::-moz-focus-inner,
+    [type="submit"]::-moz-focus-inner {
+      border-style: none;
+      padding: 0;
+    }
+
+    button:-moz-focus,
+    [type="button"]:-moz-focus,
+    [type="reset"]:-moz-focus,
+    [type="submit"]:-moz-focus {
+      outline: 1px dotted ButtonText;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: inherit;
+    }
+
+    input {
+      padding: 2px 4px;
+    }
+
+    img {
+      display: block;
+    }
+
+    html {
+      scroll-behavior: smooth
+    }
+  </style>
+  <style data-tag="default-style-sheet">
+    html {
+      font-family: Inter;
+      font-size: 16px;
+    }
+
+    body {
+      font-weight: 400;
+      font-style: normal;
+      text-decoration: none;
+      text-transform: none;
+      letter-spacing: normal;
+      line-height: 1.15;
+      color: var(--dl-color-gray-black);
+      background-color: var(--dl-color-gray-white);
+
+    }
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/animate.css@4.1.1/animate.css" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet" href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css" />
+</head>
+
+<body>
+  <link rel="stylesheet" href="./css/logout-style.css" />
+  <div>
+    <link href="./css/logout.css" rel="stylesheet" />
+
+    <div class="logout-container">
+      <div class="logout-logout">
+        <img src="public-logout/external/black1605312-mbcd-800h.png" alt="black1605312" class="logout-black160" />
+        <div class="logout-frame">
+          <div class="logout-frame427319517">
+            <div class="logout-group2">
+              <img src="public-logout/external/vector5312-dw99.svg" alt="Vector5312" class="logout-vector" />
+              <img src="public-logout/external/vector5312-345.svg" alt="Vector5312" class="logout-vector01" />
+              <img src="public-logout/external/vector5312-1m34.svg" alt="Vector5312" class="logout-vector02" />
+              <img src="public-logout/external/vector5312-3fjh.svg" alt="Vector5312" class="logout-vector03" />
+              <img src="public-logout/external/vector5312-4d3c.svg" alt="Vector5312" class="logout-vector04" />
+              <img src="public-logout/external/vector5312-wiiq.svg" alt="Vector5312" class="logout-vector05" />
+              <img src="public-logout/external/vector5312-mxx6.svg" alt="Vector5312" class="logout-vector06" />
+              <img src="public-logout/external/vector5312-wk7u.svg" alt="Vector5312" class="logout-vector07" />
+              <img src="public-logout/external/vector5312-6j1q.svg" alt="Vector5312" class="logout-vector08" />
+              <img src="public-logout/external/vector5312-b5p3.svg" alt="Vector5312" class="logout-vector09" />
+              <img src="public-logout/external/vector5312-ctil.svg" alt="Vector5312" class="logout-vector10" />
+              <img src="public-logout/external/vector5312-6f1.svg" alt="Vector5312" class="logout-vector11" />
+              <img src="public-logout/external/vector5312-pl4f.svg" alt="Vector5312" class="logout-vector12" />
+              <img src="public-logout/external/vector5312-x6jh.svg" alt="Vector5312" class="logout-vector13" />
+              <img src="public-logout/external/vector5312-llsa.svg" alt="Vector5312" class="logout-vector14" />
+              <img src="public-logout/external/vector5312-yrlj.svg" alt="Vector5312" class="logout-vector15" />
+              <img src="public-logout/external/vector5312-oaqt.svg" alt="Vector5312" class="logout-vector16" />
+              <img src="public-logout/external/vector5313-0qr.svg" alt="Vector5313" class="logout-vector17" />
+              <img src="public-logout/external/vector5313-p219.svg" alt="Vector5313" class="logout-vector18" />
+              <img src="public-logout/external/vector5313-7wp8.svg" alt="Vector5313" class="logout-vector19" />
+              <img src="public-logout/external/vector5313-2pra.svg" alt="Vector5313" class="logout-vector20" />
+              <img src="public-logout/external/vector5313-3lnd.svg" alt="Vector5313" class="logout-vector21" />
+              <img src="public-logout/external/vector5313-yk9k.svg" alt="Vector5313" class="logout-vector22" />
+              <img src="public-logout/external/vector5313-1voe.svg" alt="Vector5313" class="logout-vector23" />
+              <img src="public-logout/external/vector5313-lx39.svg" alt="Vector5313" class="logout-vector24" />
+              <img src="public-logout/external/vector5313-523.svg" alt="Vector5313" class="logout-vector25" />
+              <img src="public-logout/external/vector5313-gz1b.svg" alt="Vector5313" class="logout-vector26" />
+              <img src="public-logout/external/vector5313-2oko.svg" alt="Vector5313" class="logout-vector27" />
+              <img src="public-logout/external/vector5313-vso.svg" alt="Vector5313" class="logout-vector28" />
+              <img src="public-logout/external/vector5313-swla.svg" alt="Vector5313" class="logout-vector29" />
+              <img src="public-logout/external/vector5313-q7k7.svg" alt="Vector5313" class="logout-vector30" />
+              <img src="public-logout/external/vector5313-8bgcq.svg" alt="Vector5313" class="logout-vector31" />
+              <img src="public-logout/external/vector5313-orx.svg" alt="Vector5313" class="logout-vector32" />
+              <img src="public-logout/external/vector5313-t8zm.svg" alt="Vector5313" class="logout-vector33" />
+              <img src="public-logout/external/vector5313-xtu6.svg" alt="Vector5313" class="logout-vector34" />
+              <img src="public-logout/external/vector5313-kgvd.svg" alt="Vector5313" class="logout-vector35" />
+              <img src="public-logout/external/vector5313-l56.svg" alt="Vector5313" class="logout-vector36" />
+              <img src="public-logout/external/vector5313-j3i8.svg" alt="Vector5313" class="logout-vector37" />
+              <img src="public-logout/external/vector5313-d3ak.svg" alt="Vector5313" class="logout-vector38" />
+              <img src="public-logout/external/vector5313-2cuh.svg" alt="Vector5313" class="logout-vector39" />
+              <img src="public-logout/external/vector5313-h4kb.svg" alt="Vector5313" class="logout-vector40" />
+              <img src="public-logout/external/vector5313-r87r.svg" alt="Vector5313" class="logout-vector41" />
+              <img src="public-logout/external/vector5313-dnk.svg" alt="Vector5313" class="logout-vector42" />
+              <img src="public-logout/external/vector5313-i5ht.svg" alt="Vector5313" class="logout-vector43" />
+              <img src="public-logout/external/vector5313-m6e.svg" alt="Vector5313" class="logout-vector44" />
+              <img src="public-logout/external/vector5313-uq07.svg" alt="Vector5313" class="logout-vector45" />
+              <img src="public-logout/external/vector5313-7xik.svg" alt="Vector5313" class="logout-vector46" />
+              <img src="public-logout/external/vector5313-legb.svg" alt="Vector5313" class="logout-vector47" />
+              <img src="public-logout/external/vector5313-yzy.svg" alt="Vector5313" class="logout-vector48" />
+              <img src="public-logout/external/vector5313-y9tl.svg" alt="Vector5313" class="logout-vector49" />
+              <img src="public-logout/external/vector5313-19ym.svg" alt="Vector5313" class="logout-vector50" />
+              <img src="public-logout/external/vector5313-3bq.svg" alt="Vector5313" class="logout-vector51" />
+              <img src="public-logout/external/vector5313-kjo9.svg" alt="Vector5313" class="logout-vector52" />
+              <img src="public-logout/external/vector5313-mkf.svg" alt="Vector5313" class="logout-vector53" />
+              <img src="public-logout/external/vector5313-xl4k.svg" alt="Vector5313" class="logout-vector54" />
+            </div>
+            <span class="logout-text"><span>Made For India</span></span>
+          </div>
+        </div>
+        <img src="public-logout/external/rectangle9015313-2qpu-200h.png" alt="Rectangle9015313"
+          class="logout-rectangle901" />
+        <div class="logout-frame1">
+          <div class="logout-maskgroup">
+            <img src="public-logout/external/ellipse145313-f0q8-200h.png" alt="Ellipse145313"
+              class="logout-ellipse14" />
+            <img src="public-logout/external/iso60x6015313-43gk-200h.png" alt="ISO60x6015313"
+              class="logout-iso60x601" />
+          </div>
+          <div class="logout-maskgroup1">
+            <img src="public-logout/external/ellipse145313-a5qi-200h.png" alt="Ellipse145313"
+              class="logout-ellipse141" />
+            <img src="public-logout/external/iso60x6015313-nn4-200h.png" alt="ISO60x6015313"
+              class="logout-iso60x6011" />
+          </div>
+        </div>
+        <span class="logout-text02">
+          <span>Terms &amp; condition || Privacy Policy</span>
+        </span>
+        <span class="logout-text04">
+          <span>© SCRAP SYMPHONY SANCTUARY. All Rights Reserved.</span>
+        </span>
+        <img src="public-logout/external/scrap3removebgpreview685313-pio8-200h.png" alt="Scrap3removebgpreview685313"
+          class="logout-scrap3removebgpreview68" />
+        <span class="logout-text06">
+          <span>Scrap Symphony Sanctuary</span>
+        </span>
+        <img src="public-logout/external/rectangle9675313-lb9b-500h.png" alt="Rectangle9675313"
+          class="logout-rectangle967" />
+        <img src="public-logout/external/rectangle545313-d9ks-400w.png" alt="Rectangle545313"
+          class="logout-rectangle54" />
+        <span class="logout-text08">
+          <span class="logout-text09">Welcome to</span>
+          <br />
+          <span class="logout-text11"></span>
+          <span>CREATIVE SCRAPYARD</span>
+        </span>
+        <span class="logout-text13 parah1bold"><span><a href="profile.html">Profile</a></span></span>
+        <img src="public-logout/external/layer15313-1ky4.svg" alt="Layer15313" class="logout-layer1" />
+        <span class="logout-text15 parah1bold">
+          <span><a href="termspolicy.html">Terms &amp; Privacy Policy</a></span></span>
+        </span>
+        <img src="public-logout/external/vector5313-i1k.svg" alt="Vector5313" class="logout-vector55" />
+        <img src="public-logout/external/vector5313-hjua.svg" alt="Vector5313" class="logout-vector56" />
+        <img src="public-logout/external/vector5313-bqwg.svg" alt="Vector5313" class="logout-vector57" />
+        <img src="public-logout/external/vector5313-ia5k.svg" alt="Vector5313" class="logout-vector58" />
+        <div class="logout-layer24">
+          <img src="public-logout/external/vector5313-e3fu.svg" alt="Vector5313" class="logout-vector59" />
+          <img src="public-logout/external/vector5313-biml.svg" alt="Vector5313" class="logout-vector60" />
+        </div>
+        <span class="logout-text17 parah1bold"><span>Logout</span></span>
+        <div class="logout-frame2"></div>
+        <img src="public-logout/external/vector5313-1yt5.svg" alt="Vector5313" class="logout-vector61" />
+        <img src="public-logout/external/vector5313-xlmk.svg" alt="Vector5313" class="logout-vector62" />
+        <span class="logout-text19"><span><a href="home.html">Back to Home</a></span></span>
+        <span class="logout-text21"><span>Logout Instructions</span></span>
+        <span class="logout-text23">
+          <span class="logout-text24">
+            Click on your profile icon located at the top right corner of the
+            page.
+          </span>
+          <br />
+          <span class="logout-text26">From the dropdown menu, select “</span>
+          <span class="logout-text27">Logout “.</span>
+          <br />
+          <span class="logout-text29"></span>
+          <span class="logout-text30">
+            Read the instructions and click that “
+          </span>
+          <span class="logout-text31">Logout Button</span>
+          <span class="logout-text32">” to logout from the device.</span>
+          <br />
+          <span class="logout-text34"></span>
+          <br />
+          <span class="logout-text36">
+            Remember to log out securely, especially if you're using a shared
+            or public-logout device. Logging out ensures the protection of your
+            account and personal information.
+          </span>
+          <br />
+          <span class="logout-text38">
+            Thank you for being a part of our sustainable community at
+          </span>
+          <span class="logout-text39">CREATIVE SCRAPYARD!</span>
+          <span>
+            If you have any further questions or concerns, feel free to reach
+            out to our support team.
+          </span>
+          <br />
+          <span></span>
+        </span>
+        <div class="logout-frame3">
+          <span class="logout-text43"><span><a href="index.html">Logout</a></span></span>
+          <div class="logout-layer29">
+            <img src="public-logout/external/vector5313-5bea.svg" alt="Vector5313" class="logout-vector63" />
+            <img src="public-logout/external/vector5313-6sjj.svg" alt="Vector5313" class="logout-vector64" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

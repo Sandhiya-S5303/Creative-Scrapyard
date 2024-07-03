@@ -1,0 +1,923 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 153.5rem;
+}.landing-page-SNp {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/black1-1-bg.png');
+  background-color: #ffffff;
+}
+.landing-page-SNp .item--TYp {
+  box-sizing: border-box;
+  padding: 1rem 71.525rem 0.879rem 71.525rem;
+  width: 100%;
+  height: 3.1rem;
+  background-color: #777777;
+  flex-shrink: 0;
+}
+.landing-page-SNp .item--TYp .frame-427319517-KDe {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.landing-page-SNp .item--TYp .frame-427319517-KDe .group-2-T4x {
+  margin-right: 1rem;
+  width: 1.95rem;
+  height: 1.2211rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-SNp .item--TYp .frame-427319517-KDe .made-for-india-mLY {
+  margin-bottom: 0.0008rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG {
+  box-sizing: border-box;
+  padding: 3.6rem 4.2rem 9.204rem 4.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-bxyw-oAk {
+  margin: 0rem 4.65rem 8.2rem 0rem;
+  width: calc(100% - 4.65rem);
+  height: 9.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-bxyw-oAk .auto-group-zzcc-JtC {
+  width: 31.65rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-bxyw-oAk .auto-group-zzcc-JtC .auto-group-iwqs-eBN {
+  margin: 0rem 10.7rem 0.3rem 0rem;
+  width: calc(100% - 10.7rem);
+  display: flex;
+  align-items: center;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-bxyw-oAk .auto-group-zzcc-JtC .auto-group-iwqs-eBN .scrap3-removebg-preview-2-Zp8 {
+  margin-right: 0.0033rem;
+  width: 4.7467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-bxyw-oAk .auto-group-zzcc-JtC .auto-group-iwqs-eBN .scrap-symphony-sanctuary-4kt {
+  margin-top: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-bxyw-oAk .auto-group-zzcc-JtC .creative-scrapyard-esW {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.072rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-bxyw-oAk .auto-group-nhzc-ZDn {
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 1.5rem 51.35rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-bxyw-oAk .auto-group-nhzc-ZDn .component-6-rya {
+  margin: 1.3rem 3.95rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.6rem 0rem 1.1rem 0rem;
+  width: 27.3rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-bxyw-oAk .auto-group-nhzc-ZDn .component-7-hDW {
+  margin-bottom: 0.8rem;
+  width: 26.2rem;
+  height: 6rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.04rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-z3sj-Yzp {
+  margin: 0rem 17.2rem 16.372rem 11.7rem;
+  width: calc(100% - 28.9rem);
+  height: 33.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-z3sj-Yzp .auto-group-3xzg-Trt {
+  margin: 2.7rem 5.7rem 4.5rem 0rem;
+  width: 75.3rem;
+  height: calc(100% - 7.2rem);
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-z3sj-Yzp .auto-group-3xzg-Trt .welcome-to-the-world-of-creativity-creative-scrapyard-kb6 {
+  margin-bottom: 2.0761rem;
+  max-width: 75.3rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.22;
+  letter-spacing: 0.096rem;
+  color: #ffffff;
+  font-family: Overlock, 'Source Sans Pro';
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-z3sj-Yzp .auto-group-3xzg-Trt .welcome-to-the-world-of-creativity-creative-scrapyard-kb6 .welcome-to-the-world-of-creativity-creative-scrapyard-kb6-sub-0 {
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-z3sj-Yzp .auto-group-3xzg-Trt .welcome-to-the-world-of-creativity-creative-scrapyard-kb6 .welcome-to-the-world-of-creativity-creative-scrapyard-kb6-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.22;
+  letter-spacing: 0.096rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Overlock, 'Source Sans Pro';
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-z3sj-Yzp .auto-group-3xzg-Trt .become-a-seller-and-buyer-to-grow-your-business-in-india-rAG {
+  margin-bottom: 4.3239rem;
+  width: 100%;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3618164062;
+  letter-spacing: 0.036rem;
+  color: #f6fbff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-z3sj-Yzp .auto-group-3xzg-Trt .become-a-seller-and-buyer-to-grow-your-business-in-india-rAG .become-a-seller-and-buyer-to-grow-your-business-in-india-rAG-sub-0 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.036rem;
+  color: #f6fbff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-z3sj-Yzp .auto-group-3xzg-Trt .become-a-seller-and-buyer-to-grow-your-business-in-india-rAG .become-a-seller-and-buyer-to-grow-your-business-in-india-rAG-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4825;
+  letter-spacing: 0.036rem;
+  color: #f6fbff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-z3sj-Yzp .auto-group-3xzg-Trt .start-selling-button-ma4 {
+  margin-left: 0.5rem;
+  width: 20.7rem;
+  height: 4.9rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.036rem;
+  color: #222222;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: -0.2rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3rem;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-z3sj-Yzp .image-41-yw2 {
+  width: 35.2rem;
+  height: 33.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-2fcg-JiQ {
+  margin: 0rem 12.296rem 9.743rem 10.444rem;
+  box-sizing: border-box;
+  padding: 4.128rem 12.454rem 6.857rem 11.606rem;
+  width: calc(100% - 22.7399rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/removebg-preview-1-bg.png');
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-2fcg-JiQ .about-us-bBi {
+  margin: 0rem 0rem 10.8rem 2.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Otomanopee One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-2fcg-JiQ .scrap-symphony-sanctuary-is-an-innovative-e-commerce-platform-designed-to-revolutionize-the-utilization-of-old-or-discarded-items-serving-as-a-marketplace-for-individuals-to-sell-their-unused-or-scrap-items-our-website-facilitates-a-seamless-connection-between-sellers-and-artists-artists-can-purchase-these-items-at-affordable-rates-transform-them-into-unique-useful-and-decorative-creations-and-subsequently-sell-their-upcycled-masterpieces-on-the-platform-this-not-only-provides-individuals-with-an-opportunity-to-earn-from-their-scrap-but-also-empowers-artists-to-showcase-their-creativity-while-contributing-to-sustainable-practices-tRi {
+  max-width: 98.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.064rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS {
+  margin: 0rem 12.1rem 0rem 3.6rem;
+  width: calc(100% - 15.7rem);
+  height: 56.3961rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .auto-group-ju5s-xyJ {
+  margin: 5.7rem 7.5rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .auto-group-ju5s-xyJ .get-started-in-5-simple-steps-5HE {
+  margin-bottom: 11.3rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3618164062;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .auto-group-ju5s-xyJ .get-started-in-5-simple-steps-5HE .get-started-in-5-simple-steps-5HE-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .auto-group-ju5s-xyJ .get-started-in-5-simple-steps-5HE .get-started-in-5-simple-steps-5HE-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.048rem;
+  color: #fff970;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .auto-group-ju5s-xyJ .get-started-in-5-simple-steps-5HE .get-started-in-5-simple-steps-5HE-sub-2 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .auto-group-ju5s-xyJ .get-started-in-5-simple-steps-5HE .get-started-in-5-simple-steps-5HE-sub-3 {
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.048rem;
+  color: #fff970;
+  font-family: Oswald, 'Source Sans Pro';
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .auto-group-ju5s-xyJ .getting-started-is-often-the-hardest-part-but-taking-small-steps-can-help-you-build-momentum-and-achieve-your-goals-KDW {
+  max-width: 62.8rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.032rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz {
+  width: 59.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-26-giG {
+  width: 53.3rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-26-giG .frame-24-CRi {
+  margin-right: 2rem;
+  width: 11rem;
+  height: 4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.024rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff7e9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-26-giG .frame-25-rFN {
+  width: 40.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-26-giG .frame-25-rFN .frame-27-bik {
+  margin-bottom: 0.9rem;
+  width: 20.7rem;
+  height: 3.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #555555;
+  box-sizing: border-box;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-26-giG .frame-25-rFN .all-you-need-is-mail-id-and-phone-number-TFA {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-27-iwn {
+  width: 55.5rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 0;
+  top: 11.6992rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-27-iwn .frame-24-Fgp {
+  margin-right: 2rem;
+  width: 11rem;
+  height: 4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.024rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff7e9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-27-iwn .frame-25-7DE {
+  width: 42.5rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-27-iwn .frame-25-7DE .frame-27-G68 {
+  margin-bottom: 0.9rem;
+  width: 18.5rem;
+  height: 3.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #555555;
+  box-sizing: border-box;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-27-iwn .frame-25-7DE .upload-and-list-the-products-you-want-to-sell-7sS {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-29-pmr {
+  width: 59.1rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 0;
+  top: 23.3984rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-29-pmr .frame-24-A52 {
+  margin-right: 2rem;
+  width: 11rem;
+  height: 4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.024rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff7e9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-29-pmr .frame-25-3ec {
+  width: 46.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-29-pmr .frame-25-3ec .frame-27-QVA {
+  margin-bottom: 0.9rem;
+  width: 11.1rem;
+  height: 3.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #555555;
+  box-sizing: border-box;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-29-pmr .frame-25-3ec .start-getting-orders-from-customers-across-india-VFi {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-30-BeL {
+  width: 46.7rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 0;
+  top: 35.0805rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-30-BeL .frame-24-vM2 {
+  margin-right: 2rem;
+  width: 11rem;
+  height: 4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.024rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff7e9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-30-BeL .frame-25-nu2 {
+  width: 33.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-30-BeL .frame-25-nu2 .frame-27-9Dn {
+  margin-bottom: 0.9rem;
+  width: 18.1rem;
+  height: 3.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #555555;
+  box-sizing: border-box;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-30-BeL .frame-25-nu2 .choose-from-30-shipping-partners-RSC {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-31-vdr {
+  width: 57.6rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 0;
+  top: 46.7961rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-31-vdr .frame-24-4k4 {
+  margin-right: 1.95rem;
+  width: 11rem;
+  height: 4rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  letter-spacing: 0.024rem;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff7e9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-31-vdr .frame-25-kct {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-31-vdr .frame-25-kct .frame-27-gmS {
+  margin: 0rem 25.15rem 0.9rem 0rem;
+  height: 3.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #555555;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .frame-31-vdr .frame-25-kct .get-your-payments-into-your-account-following-a-xx-days-cycle-from-order-delivery-date-Lqz {
+  margin-left: 0.05rem;
+  max-width: 44.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .arrow-1-ozU {
+  width: 0;
+  height: 7.7rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .arrow-2-XvU {
+  width: 0;
+  height: 7.7rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 15.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .arrow-3-4vQ {
+  width: 0;
+  height: 7.7rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 39.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-SNp .auto-group-ptjz-uLG .auto-group-cxfz-UHS .group-18-Mfz .arrow-4-DHW {
+  width: 0;
+  height: 7.7rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 27.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-SNp .footer-9gx {
+  box-sizing: border-box;
+  padding-top: 0.293rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #222222;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL {
+  margin: 0rem 21.377rem 2.207rem 12.192rem;
+  width: calc(100% - 33.5688rem);
+  height: 16.5rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .auto-group-j668-DRv {
+  margin: 0rem 61.831rem 0.382rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .auto-group-j668-DRv .scrap-symphoy-sanctuary-aims-to-promote-innovation-in-the-digital-commerce-ecosystem-by-providing-a-platform-for-startups-and-entrepreneurs-to-develop-new-services-and-solutions-also-supports-digital-commerce-including-online-payments-e-commerce-and-financial-services-xPW {
+  margin-bottom: 1.4117rem;
+  max-width: 43.7rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .auto-group-j668-DRv .social-media-YMi {
+  margin-left: 0.8117rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .auto-group-j668-DRv .social-media-YMi .vector-HaC {
+  margin: 0rem 4.035rem 0rem 0rem;
+  width: 2.9268rem;
+  height: 2.9268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .auto-group-j668-DRv .social-media-YMi .vector-Qep {
+  margin-right: 4.0344rem;
+  width: 3.2195rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .auto-group-j668-DRv .social-media-YMi .vector-kig {
+  margin-top: 0.0013rem;
+  width: 3.1463rem;
+  height: 2.6341rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .frame-35-6Gk {
+  width: 14.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .frame-35-6Gk .pages-ep4 {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2.25;
+  letter-spacing: 0.012rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .frame-35-6Gk .frame-39-NVA {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .frame-35-6Gk .frame-39-NVA .about-us-K9W {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .frame-35-6Gk .frame-39-NVA .return-policy-SV2 {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .frame-35-6Gk .frame-39-NVA .contact-us-BBi {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-5mps-uAL .frame-35-6Gk .frame-39-NVA .refund-cancellation-policies-Jn8 {
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-kruc-cXv {
+  box-sizing: border-box;
+  padding: 0.6rem 12.074rem 0rem 14.091rem;
+  width: 100%;
+  height: 5.9094rem;
+  display: flex;
+  align-items: center;
+  background-color: #555555;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-kruc-cXv .frame-40-iax {
+  margin-right: 21.8997rem;
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-kruc-cXv .frame-40-iax .mask-group-ezQ {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-kruc-cXv .frame-40-iax .mask-group-Pwz {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-kruc-cXv .terms-condition-privacy-policy-LsE {
+  margin: 0rem 29.669rem 1.483rem 0rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-SNp .footer-9gx .auto-group-kruc-cXv .scrap-symphony-sanctuary-all-rights-reserved-3Fr {
+  margin-bottom: 1.4828rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

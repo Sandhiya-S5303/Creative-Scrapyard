@@ -1,0 +1,899 @@
+.login-buyer-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.login-buyer-login-buyer {
+  width: 100%;
+  height: 702px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.login-buyer-black12 {
+  top: 0px;
+  left: 0px;
+  width: 1536px;
+  height: 702px;
+  position: absolute;
+}
+
+.login-buyer-frame {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 1535px;
+  height: 31px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(119, 119, 119, 1);
+}
+
+.login-buyer-frame427319517 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-buyer-group2 {
+  width: 19px;
+  height: 12.210820198059082px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.login-buyer-vector {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 12px;
+  position: absolute;
+}
+
+.login-buyer-vector01 {
+  top: 3.7236900329589844px;
+  left: 0px;
+  width: 19px;
+  height: 5px;
+  position: absolute;
+}
+
+.login-buyer-vector02 {
+  top: 7.447380065917969px;
+  left: 0px;
+  width: 19px;
+  height: 5px;
+  position: absolute;
+}
+
+.login-buyer-vector03 {
+  top: 4.600877285003662px;
+  left: 8.018820762634277px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+
+.login-buyer-vector04 {
+  top: 4.786771774291992px;
+  left: 8.233487129211426px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+
+.login-buyer-vector05 {
+  top: 5.844043731689453px;
+  left: 9.4453125px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector06 {
+  top: 6.401726245880127px;
+  left: 11.176491737365723px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector07 {
+  top: 6.256496429443359px;
+  left: 9.701526641845703px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector08 {
+  top: 6.7154221534729px;
+  left: 11.079545021057129px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector09 {
+  top: 6.244877815246582px;
+  left: 9.355291366577148px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector10 {
+  top: 6.9884538650512695px;
+  left: 10.878728866577148px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector11 {
+  top: 6.2216410636901855px;
+  left: 8.995205879211426px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector12 {
+  top: 7.191775798797607px;
+  left: 10.594815254211426px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector13 {
+  top: 6.1925950050354px;
+  left: 8.676669120788574px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector14 {
+  top: 7.319577693939209px;
+  left: 10.255504608154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector15 {
+  top: 6.157740116119385px;
+  left: 8.434304237365723px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector16 {
+  top: 7.3602423667907715px;
+  left: 9.874645233154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector17 {
+  top: 6.1170759201049805px;
+  left: 8.281960487365723px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector18 {
+  top: 7.30795955657959px;
+  left: 9.479935646057129px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector19 {
+  top: 5.913753986358643px;
+  left: 8.233487129211426px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector20 {
+  top: 7.168539047241211px;
+  left: 9.092151641845703px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector21 {
+  top: 5.582630634307861px;
+  left: 8.281960487365723px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector22 {
+  top: 6.953598976135254px;
+  left: 8.752840995788574px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector23 {
+  top: 5.2863616943359375px;
+  left: 8.434304237365723px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector24 {
+  top: 6.680567264556885px;
+  left: 8.468927383422852px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector25 {
+  top: 5.048184871673584px;
+  left: 8.676669120788574px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector26 {
+  top: 6.3610615730285645px;
+  left: 8.275035858154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector27 {
+  top: 4.879718780517578px;
+  left: 8.995205879211426px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector28 {
+  top: 6.018319606781006px;
+  left: 8.171164512634277px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector29 {
+  top: 4.798389911651611px;
+  left: 9.355291366577148px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector30 {
+  top: 5.681386470794678px;
+  left: 8.171164512634277px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector31 {
+  top: 4.80419921875px;
+  left: 9.701526641845703px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector32 {
+  top: 5.361881256103516px;
+  left: 8.275035858154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector33 {
+  top: 4.897146224975586px;
+  left: 9.798473358154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector34 {
+  top: 5.094658374786377px;
+  left: 8.468927383422852px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector35 {
+  top: 5.077230930328369px;
+  left: 9.833096504211426px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector36 {
+  top: 4.885527610778809px;
+  left: 8.752840995788574px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector37 {
+  top: 5.321217060089111px;
+  left: 9.874645233154297px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector38 {
+  top: 4.763535022735596px;
+  left: 9.092151641845703px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector39 {
+  top: 5.617485523223877px;
+  left: 9.90234375px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector40 {
+  top: 4.722870349884033px;
+  left: 9.479935646057129px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector41 {
+  top: 5.954418659210205px;
+  left: 9.916193008422852px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector42 {
+  top: 4.775153160095215px;
+  left: 9.874645233154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector43 {
+  top: 6.1286940574646px;
+  left: 9.923117637634277px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector44 {
+  top: 4.908764362335205px;
+  left: 10.255504608154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector45 {
+  top: 6.163549423217773px;
+  left: 9.916193008422852px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector46 {
+  top: 5.123704433441162px;
+  left: 10.594815254211426px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector47 {
+  top: 6.198404312133789px;
+  left: 9.90234375px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector48 {
+  top: 5.396736145019531px;
+  left: 10.878728866577148px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector49 {
+  top: 6.227450370788574px;
+  left: 9.874645233154297px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector50 {
+  top: 5.716241836547852px;
+  left: 11.072620391845703px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector51 {
+  top: 6.244877815246582px;
+  left: 9.833096504211426px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector52 {
+  top: 6.05898380279541px;
+  left: 11.176491737365723px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector53 {
+  top: 6.256496429443359px;
+  left: 9.798473358154297px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+
+.login-buyer-vector54 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 12px;
+  opacity: 0.20;
+  position: absolute;
+}
+
+.login-buyer-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 10px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.login-buyer-rectangle865 {
+  top: 659px;
+  left: 0px;
+  width: 1535px;
+  height: 43px;
+  position: absolute;
+}
+
+.login-buyer-text02 {
+  top: 668px;
+  left: 659px;
+  color: var(--dl-color-gray-white);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.login-buyer-text04 {
+  top: 668px;
+  left: 1141px;
+  color: var(--dl-color-gray-white);
+  width: 358px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.login-buyer-frame1 {
+  gap: 45px;
+  top: 659px;
+  left: 128px;
+  width: 91px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+
+.login-buyer-maskgroup {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.login-buyer-ellipse14 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+
+.login-buyer-iso60x601 {
+  left: 4px;
+  width: 30px;
+  bottom: -1px;
+  height: 29px;
+  position: absolute;
+}
+
+.login-buyer-maskgroup1 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.login-buyer-ellipse141 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+
+.login-buyer-iso60x6011 {
+  top: -1px;
+  left: 0px;
+  width: 30px;
+  height: 32px;
+  position: absolute;
+}
+
+.login-buyer-scrap3removebgpreview2 {
+  top: 52px;
+  left: 28px;
+  width: 47px;
+  height: 40px;
+  position: absolute;
+}
+
+.login-buyer-text06 {
+  top: 61px;
+  left: 67px;
+  color: rgba(247, 251, 255, 1);
+  width: 179px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.login-buyer-rectangle873 {
+  top: 158px;
+  left: 446px;
+  width: 674px;
+  height: 400px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 20px;
+}
+
+.login-buyer-frame2 {
+  gap: 10px;
+  top: 472px;
+  left: 536px;
+  width: 129px;
+  display: flex;
+  padding: 10px 39px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(62, 128, 224, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: var(--dl-color-primary-lightblue);
+}
+
+.login-buyer-text08 {
+  gap: 7px;
+  display: flex;
+  align-items: center;
+}
+
+.login-buyer-text09 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: center;
+  line-height: 25px;
+}
+
+.login-buyer-form {
+  gap: 30px;
+  top: 260px;
+  left: 487px;
+  width: 532px;
+  height: 196px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+
+.login-buyer-email {
+  width: 487px;
+  height: 77px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.login-buyer-text11 {
+  left: 4px;
+  color: var(--dl-color-gray-darkgray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 22px;
+}
+
+.login-buyer-box {
+  top: 32px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.login-buyer-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+
+.login-buyer-psswd {
+  width: 487px;
+  height: 77px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.login-buyer-text13 {
+  color: var(--dl-color-gray-darkgray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 22px;
+}
+
+.login-buyer-box1 {
+  top: 32px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.login-buyer-rectangle61 {
+  top: 0px;
+  left: 0px;
+  width: 487px;
+  height: 45px;
+  position: absolute;
+  border-color: rgba(221, 221, 221, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+
+.login-buyer-text15 {
+  top: 216px;
+  left: 536px;
+  color: var(--dl-color-gray-darkgray);
+  width: 462px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.login-buyer-text17 {
+  top: 520px;
+  left: 729px;
+  color: var(--dl-color-gray-darkgray);
+  width: 462px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.login-buyer-text18 {
+  top: 189px;
+  left: 536px;
+  width: 353px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 400;
+  line-height: 33px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.login-buyer-text19 {
+  font-weight: 400;
+}
+
+.login-buyer-text20 {
+  color: #ff5f06;
+  font-weight: 400;
+}
+
+.login-buyer-text21 {
+  color: #ff5f06;
+}
+
+.login-buyer-text22 {
+  top: 83px;
+  left: 45px;
+  color: rgba(255, 255, 255, 1);
+  width: 207px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.login-buyer-text24 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: center;
+  line-height: 25px;
+}
+
+.login-buyer-frame3 {
+  gap: 10px;
+  top: 468px;
+  left: 889px;
+  width: 129px;
+  display: flex;
+  padding: 10px 39px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(62, 128, 224, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: var(--dl-color-primary-lightblue);
+}
+
+.login-buyer-text26 {
+  gap: 7px;
+  display: flex;
+  align-items: center;
+}
+
+.login-buyer-text27 {
+  color: rgb(255, 255, 255);
+  height: auto;
+  text-align: center;
+  line-height: 25px;
+}

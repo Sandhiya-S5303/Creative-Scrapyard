@@ -1,0 +1,445 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 153.5rem;
+}.logout-HpG {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.logout-HpG .auto-group-ycsp-Dhv {
+  width: 100%;
+  height: 4.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ycsp-Dhv .item--N52 {
+  box-sizing: border-box;
+  padding: 1rem 69.15rem 0.3rem 69.15rem;
+  width: 153.5rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #777777;
+}
+.logout-HpG .auto-group-ycsp-Dhv .item--N52 .frame-427319517-HBz {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.logout-HpG .auto-group-ycsp-Dhv .item--N52 .frame-427319517-HBz .group-2-qDW {
+  margin: 0rem 1rem 0rem 0rem;
+  width: 2.2rem;
+  height: 1.6422rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ycsp-Dhv .item--N52 .frame-427319517-HBz .made-for-india-9jz {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ycsp-Dhv .item--57r {
+  width: 4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 137.2rem;
+  top: 1rem;
+  overflow: hidden;
+}
+.logout-HpG .auto-group-ns96-bM6 {
+  box-sizing: border-box;
+  padding: 1.3rem 2.9rem 6.4rem 2.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-cdhw-Hzc {
+  margin: 0rem 14.8rem 2rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-cdhw-Hzc .scrap3-removebg-preview-68-2BW {
+  margin: 0rem 0.003rem 1.8rem 0rem;
+  width: 4.7467rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-cdhw-Hzc .scrap-symphony-sanctuary-vGt {
+  margin: 0rem 96.85rem 0.9rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4825;
+  letter-spacing: 0.028rem;
+  color: #f7fbff;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-cdhw-Hzc .item--QC4 {
+  margin-top: 3rem;
+  box-sizing: border-box;
+  padding: 0.4rem 1.9rem 0.5rem 1.1rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.5);
+  background-color: #f16713;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-cdhw-Hzc .item--QC4 .auto-group-gsn4-vRJ {
+  margin: 0.1rem 1.1rem 0rem 0rem;
+  width: 1.1rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-cdhw-Hzc .item--QC4 .back-to-home-qYG {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.3571428571;
+  letter-spacing: 0.014rem;
+  color: #fff7e9;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G {
+  margin: 0rem 12.9rem 0rem 13rem;
+  box-sizing: border-box;
+  padding-right: 4.1rem;
+  width: calc(100% - 25.9rem);
+  height: 45.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg {
+  margin-right: 3.5rem;
+  box-sizing: border-box;
+  padding: 3.35rem 2.4rem 8.4rem 2.2rem;
+  width: 31.1rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  background-color: rgba(255, 115, 29, 0.9599999785);
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .welcome-to-creative-scrapyard-vTE {
+  margin-bottom: 7.05rem;
+  width: 100%;
+  max-width: 18.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6625rem;
+  font-weight: 400;
+  line-height: 1.3618164036;
+  letter-spacing: 0.0366rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .welcome-to-creative-scrapyard-vTE .welcome-to-creative-scrapyard-vTE-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  letter-spacing: 0.0366rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .welcome-to-creative-scrapyard-vTE .welcome-to-creative-scrapyard-vTE-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  letter-spacing: 0.0366rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .auto-group-fd2u-hVv {
+  margin: 0rem 15.9rem 3.1rem 0rem;
+  width: calc(100% - 15.9rem);
+  display: flex;
+  align-items: center;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .auto-group-fd2u-hVv .layer1-DjA {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  width: 2.5rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .auto-group-fd2u-hVv .profile-MKa {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .auto-group-wyv8-t4c {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .auto-group-wyv8-t4c .auto-group-atfi-pyr {
+  margin-right: 0.7rem;
+  width: 2.9rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .auto-group-wyv8-t4c .terms-privacy-policy-mPJ {
+  margin-bottom: 0.2rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .auto-group-cn1z-596 {
+  margin: 0rem 15.6rem 0rem 0.5rem;
+  width: calc(100% - 16.1rem);
+  display: flex;
+  align-items: flex-end;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .auto-group-cn1z-596 .layer-24-cPv {
+  margin-right: 0.9rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-ayti-Qzg .auto-group-cn1z-596 .logout-wwz {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0.02rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE {
+  margin: 4.9rem 0rem 7.1rem 0rem;
+  width: 83.1rem;
+  height: calc(100% - 12rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .logout-instructions-XQQ {
+  margin-bottom: 4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 0.9375;
+  letter-spacing: 0.016rem;
+  color: #000000;
+  font-family: Oswald, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx {
+  margin-bottom: 1.5rem;
+  max-width: 83.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.1428571429;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.1428571429;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 2.1428571429;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.1428571429;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx-sub-3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 2.1428571429;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx-sub-4 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.1428571429;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx-sub-5 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 2.1428571429;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx .click-on-your-profile-icon-located-at-the-top-right-corner-of-the-page-from-the-dropdown-menu-select-logout-read-the-instructions-and-click-that-logout-button-to-logout-from-the-device-remember-to-log-out-securely-especially-if-youre-using-a-shared-or-public-device-logging-out-ensures-the-protection-of-your-account-and-personal-information-thank-you-for-being-a-part-of-our-sustainable-community-at-creative-scrapyard-if-you-have-any-further-questions-or-concerns-feel-free-to-reach-out-to-our-support-team-2rx-sub-6 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2.1428571429;
+  letter-spacing: 0.014rem;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .item--St4 {
+  margin: 0rem 35.5rem 0rem 36.4rem;
+  box-sizing: border-box;
+  padding: 0.35rem 1.575rem 0.625rem 1.575rem;
+  width: calc(100% - 71.9rem);
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0 0 0.2rem rgba(0, 0, 0, 0.5));
+  background-color: #f16713;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .item--St4 .logout-9nU {
+  margin: 0rem 1.1rem 0.025rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 0.9375;
+  letter-spacing: 0.016rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-ns96-bM6 .auto-group-tagu-i6G .auto-group-3quu-coE .item--St4 .layer-29-U44 {
+  margin-top: 0.275rem;
+  width: 1.4501rem;
+  height: 1.25rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-rcda-9AC {
+  box-sizing: border-box;
+  padding: 0.4rem 12rem 0rem 14.1rem;
+  width: 100%;
+  height: 5.7094rem;
+  display: flex;
+  align-items: center;
+  background-color: #5b5b5b;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-rcda-9AC .item--sM6 {
+  margin-right: 21.9333rem;
+  box-sizing: border-box;
+  padding-right: 19.3667rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-rcda-9AC .item--sM6 .mask-group-aFW {
+  margin-right: 4.5rem;
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-rcda-9AC .item--sM6 .mask-group-gZS {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-rcda-9AC .terms-condition-privacy-policy-CGt {
+  margin: 0rem 29.7rem 2.109rem 0rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logout-HpG .auto-group-rcda-9AC .scrap-symphony-sanctuary-all-rights-reserved-67N {
+  margin-bottom: 2.1094rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.2;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

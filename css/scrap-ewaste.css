@@ -1,0 +1,1146 @@
+.scrap-ewaste-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.scrap-ewaste-scrap-ewaste {
+  width: 100%;
+  height: 1523px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.scrap-ewaste-black166 {
+  top: 0px;
+  left: 0px;
+  width: 1536px;
+  height: 1524px;
+  position: absolute;
+}
+.scrap-ewaste-frame {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 1535px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(119, 119, 119, 1);
+}
+.scrap-ewaste-frame427319517 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.scrap-ewaste-group2 {
+  width: 22px;
+  height: 16.421905517578125px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.scrap-ewaste-vector {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.scrap-ewaste-vector01 {
+  top: 5.008209228515625px;
+  left: 0px;
+  width: 22px;
+  height: 6px;
+  position: absolute;
+}
+.scrap-ewaste-vector02 {
+  top: 10.01641845703125px;
+  left: 0px;
+  width: 22px;
+  height: 6px;
+  position: absolute;
+}
+.scrap-ewaste-vector03 {
+  top: 6.1861572265625px;
+  left: 9.04425048828125px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.scrap-ewaste-vector04 {
+  top: 6.43927001953125px;
+  left: 9.289306640625px;
+  width: 3px;
+  height: 4px;
+  position: absolute;
+}
+.scrap-ewaste-vector05 {
+  top: 7.857574462890625px;
+  left: 10.6575927734375px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector06 {
+  top: 8.6058349609375px;
+  left: 12.611328125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector07 {
+  top: 8.4111328125px;
+  left: 10.94158935546875px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+.scrap-ewaste-vector08 {
+  top: 9.031494140625px;
+  left: 12.49652099609375px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector09 {
+  top: 8.3963623046875px;
+  left: 10.556884765625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector10 {
+  top: 9.395721435546875px;
+  left: 12.27227783203125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector11 {
+  top: 8.369171142578125px;
+  left: 10.1446533203125px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector12 {
+  top: 9.673004150390625px;
+  left: 11.95672607421875px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector13 {
+  top: 8.33123779296875px;
+  left: 9.7901611328125px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector14 {
+  top: 9.843536376953125px;
+  left: 11.57000732421875px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector15 {
+  top: 8.284912109375px;
+  left: 9.51824951171875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector16 {
+  top: 9.894561767578125px;
+  left: 11.1383056640625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector17 {
+  top: 8.230194091796875px;
+  left: 9.3470458984375px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector18 {
+  top: 9.826416015625px;
+  left: 10.69183349609375px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector19 {
+  top: 7.954925537109375px;
+  left: 9.289306640625px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector20 {
+  top: 9.641448974609375px;
+  left: 10.26080322265625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector21 {
+  top: 7.50946044921875px;
+  left: 9.3470458984375px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector22 {
+  top: 9.35443115234375px;
+  left: 9.8734130859375px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector23 {
+  top: 7.110992431640625px;
+  left: 9.51824951171875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector24 {
+  top: 8.9844970703125px;
+  left: 9.557861328125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector25 {
+  top: 6.787384033203125px;
+  left: 9.7901611328125px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector26 {
+  top: 8.556488037109375px;
+  left: 9.33428955078125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector27 {
+  top: 6.56146240234375px;
+  left: 10.1446533203125px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector28 {
+  top: 8.097259521484375px;
+  left: 9.21881103515625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector29 {
+  top: 6.4493408203125px;
+  left: 10.556884765625px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+.scrap-ewaste-vector30 {
+  top: 7.640716552734375px;
+  left: 9.21881103515625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector31 {
+  top: 6.45806884765625px;
+  left: 10.94158935546875px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+.scrap-ewaste-vector32 {
+  top: 7.2147216796875px;
+  left: 9.33428955078125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector33 {
+  top: 6.5863037109375px;
+  left: 11.051025390625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector34 {
+  top: 6.85015869140625px;
+  left: 9.557861328125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector35 {
+  top: 6.824310302734375px;
+  left: 11.09735107421875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector36 {
+  top: 6.573211669921875px;
+  left: 9.8734130859375px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector37 {
+  top: 7.1556396484375px;
+  left: 11.1383056640625px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector38 {
+  top: 6.40301513671875px;
+  left: 10.26080322265625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector39 {
+  top: 7.558135986328125px;
+  left: 11.169189453125px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector40 {
+  top: 6.3499755859375px;
+  left: 10.69183349609375px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector41 {
+  top: 8.00494384765625px;
+  left: 11.18865966796875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector42 {
+  top: 6.4197998046875px;
+  left: 11.1383056640625px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector43 {
+  top: 8.240936279296875px;
+  left: 11.19537353515625px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector44 {
+  top: 6.60443115234375px;
+  left: 11.57000732421875px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector45 {
+  top: 8.291961669921875px;
+  left: 11.18865966796875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector46 {
+  top: 6.891448974609375px;
+  left: 11.95672607421875px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector47 {
+  top: 8.3372802734375px;
+  left: 11.169189453125px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector48 {
+  top: 7.26171875px;
+  left: 12.27227783203125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector49 {
+  top: 8.373870849609375px;
+  left: 11.1383056640625px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector50 {
+  top: 7.690399169921875px;
+  left: 12.495849609375px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector51 {
+  top: 8.39971923828125px;
+  left: 11.09735107421875px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector52 {
+  top: 8.14727783203125px;
+  left: 12.611328125px;
+  width: 0px;
+  height: 1px;
+  position: absolute;
+}
+.scrap-ewaste-vector53 {
+  top: 8.4124755859375px;
+  left: 11.051025390625px;
+  width: 0px;
+  height: 2px;
+  position: absolute;
+}
+.scrap-ewaste-vector54 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 16px;
+  opacity: 0.20;
+  position: absolute;
+}
+.scrap-ewaste-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-scrap3removebgpreview59 {
+  top: 81px;
+  left: 30px;
+  width: 47px;
+  height: 40px;
+  position: absolute;
+}
+.scrap-ewaste-text02 {
+  top: 88px;
+  left: 62px;
+  color: rgba(247, 251, 255, 1);
+  width: 193px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Oswald;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-text04 {
+  top: 95px;
+  left: 373px;
+  color: rgb(246, 251, 255);
+  width: 548px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px 0px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 400;
+  line-height: 25px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-rectangle867 {
+  top: 92px;
+  left: 917px;
+  width: 377px;
+  height: 31px;
+  position: absolute;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.15000000596046448) ;
+}
+.scrap-ewaste-vector55 {
+  top: 88.8832778930664px;
+  left: 1337px;
+  width: 40px;
+  height: 36px;
+  position: absolute;
+}
+.scrap-ewaste-svg {
+  top: 89px;
+  left: 1393px;
+  width: 40px;
+  height: 39px;
+  position: absolute;
+}
+.scrap-ewaste-layer1 {
+  top: 88.8832778930664px;
+  left: 1449px;
+  width: 40px;
+  height: 39px;
+  position: absolute;
+}
+.scrap-ewaste-group {
+  top: 96.87278747558594px;
+  left: 952px;
+  width: 19.98697853088379px;
+  height: 20.116321563720703px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.scrap-ewaste-vector56 {
+  top: 2.376673698425293px;
+  left: 6.9921875px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.scrap-ewaste-vector57 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.scrap-ewaste-text05 {
+  top: 95px;
+  left: 980px;
+  color: var(--dl-color-gray-darkgray);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 25px;
+}
+.scrap-ewaste-rectangle877 {
+  top: 204px;
+  left: 0px;
+  width: 1535px;
+  height: 363px;
+  position: absolute;
+}
+.scrap-ewaste-scrap9 {
+  top: 280px;
+  left: -14px;
+  width: 706px;
+  height: 202px;
+  position: absolute;
+}
+.scrap-ewaste-text07 {
+  top: 268px;
+  left: 794px;
+  color: rgba(0, 0, 0, 1);
+  width: 409px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Oswald;
+  font-weight: 600;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-text09 {
+  top: 324px;
+  left: 794px;
+  color: rgba(0, 0, 0, 1);
+  width: 699px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Light;
+  text-align: left;
+  font-family: Oswald;
+  font-weight: 300;
+  line-height: 45px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-frame1 {
+  gap: 10px;
+  top: 608px;
+  left: 634px;
+  width: 268px;
+  height: 50px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 50px;
+  justify-content: center;
+  background-color: var(--dl-color-default-2);
+}
+.scrap-ewaste-text11 {
+  color: var(--dl-color-default-111);
+  width: 150px;
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Oswald;
+  font-weight: 700;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-rectangle878 {
+  top: 699px;
+  left: 0px;
+  width: 1535px;
+  height: 63px;
+  position: absolute;
+}
+.scrap-ewaste-text13 {
+  top: 713px;
+  color: rgb(0, 0, 0);
+  right: -63px;
+  width: 1480px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: "Oswald";
+  font-weight: 600;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-rectangle870 {
+  top: 835px;
+  left: 138px;
+  width: 301px;
+  height: 392px;
+  position: absolute;
+  border-radius: 50px;
+}
+.scrap-ewaste-rectangle879 {
+  top: 835px;
+  left: 618px;
+  width: 301px;
+  height: 392px;
+  position: absolute;
+  border-radius: 50px;
+}
+.scrap-ewaste-rectangle880 {
+  top: 835px;
+  left: 1091px;
+  width: 301px;
+  height: 392px;
+  position: absolute;
+  border-radius: 50px;
+}
+.scrap-ewaste-footer {
+  top: 1273px;
+  left: 0px;
+  width: 1535px;
+  height: 250px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.scrap-ewaste-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 1535px;
+  height: 250px;
+  position: absolute;
+}
+.scrap-ewaste-frame16 {
+  gap: 20px;
+  top: 30px;
+  left: 121.92057037353516px;
+  width: 465.6966247558594px;
+  height: 125.98319244384766px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.scrap-ewaste-text14 {
+  color: var(--dl-color-gray-white);
+  width: 438px;
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-frame35 {
+  gap: 20px;
+  top: 39px;
+  left: 1177.2330322265625px;
+  width: 312.8199157714844px;
+  height: 126.86277770996094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.scrap-ewaste-text16 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  font-size: 12px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-frame39 {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.scrap-ewaste-text18 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-text20 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-text22 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-text24 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-socialmedia {
+  top: 156px;
+  left: 121.92057037353516px;
+  width: 190px;
+  height: 20px;
+  position: absolute;
+}
+.scrap-ewaste-rectangle12 {
+  top: 207px;
+  left: 0px;
+  width: 1535px;
+  height: 43px;
+  position: absolute;
+}
+.scrap-ewaste-frame40 {
+  gap: 45px;
+  top: 209px;
+  left: 140.908203125px;
+  width: 90.94075775146484px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.scrap-ewaste-maskgroup {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.scrap-ewaste-ellipse14 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.scrap-ewaste-iso60x601 {
+  top: -4.5652174949646px;
+  left: -4.5625px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+}
+.scrap-ewaste-maskgroup1 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.scrap-ewaste-ellipse141 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.scrap-ewaste-iso60x6011 {
+  top: -6.5217390060424805px;
+  left: -8.4765625px;
+  width: 47px;
+  height: 45px;
+  position: absolute;
+}
+.scrap-ewaste-text26 {
+  top: 221.1328125px;
+  left: 1140.2572021484375px;
+  color: var(--dl-color-gray-white);
+  width: 358px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-text28 {
+  top: 221.1328125px;
+  left: 658.5709838867188px;
+  color: var(--dl-color-gray-white);
+  width: 218px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-rectangle888 {
+  top: 1175px;
+  left: 160px;
+  width: 112px;
+  height: 20px;
+  position: absolute;
+}
+.scrap-ewaste-text30 {
+  top: 1168px;
+  left: 194px;
+  color: rgba(255, 255, 255, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-svg1 {
+  top: 1176px;
+  left: 167px;
+  width: 21px;
+  height: 17px;
+  position: absolute;
+}
+.scrap-ewaste-rectangle890 {
+  top: 1175px;
+  left: 645px;
+  width: 112px;
+  height: 20px;
+  position: absolute;
+}
+.scrap-ewaste-text35 {
+  top: 1168px;
+  left: 679px;
+  color: rgba(255, 255, 255, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-svg2 {
+  top: 1176px;
+  left: 652px;
+  width: 21px;
+  height: 17px;
+  position: absolute;
+}
+.scrap-ewaste-rectangle892 {
+  top: 1175px;
+  left: 1113px;
+  width: 112px;
+  height: 20px;
+  position: absolute;
+}
+.scrap-ewaste-text40 {
+  top: 1168px;
+  left: 1147px;
+  color: rgba(255, 255, 255, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-svg3 {
+  top: 1176px;
+  left: 1120px;
+  width: 21px;
+  height: 17px;
+  position: absolute;
+}
+.scrap-ewaste-text45 {
+  top: 1144px;
+  left: 165px;
+  color: rgb(0, 0, 0);
+  width: 251px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-text46 {
+  top: 1143px;
+  left: 643px;
+  color: rgb(0, 0, 0);
+  width: 264px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-text47 {
+  top: 1146px;
+  color: rgb(0, 0, 0);
+  right: 151px;
+  width: 264px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-rectangle887 {
+  top: 1175px;
+  left: 298px;
+  width: 112px;
+  height: 20px;
+  position: absolute;
+}
+.scrap-ewaste-vector58 {
+  top: 1179px;
+  left: 312px;
+  width: 14px;
+  height: 13px;
+  position: absolute;
+}
+.scrap-ewaste-text48 {
+  top: 1170px;
+  left: 342px;
+  color: rgba(255, 255, 255, 1);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-rectangle893 {
+  top: 1175px;
+  left: 782px;
+  width: 112px;
+  height: 20px;
+  position: absolute;
+}
+.scrap-ewaste-vector59 {
+  top: 1179px;
+  left: 796px;
+  width: 14px;
+  height: 13px;
+  position: absolute;
+}
+.scrap-ewaste-text50 {
+  top: 1170px;
+  left: 826px;
+  color: rgba(255, 255, 255, 1);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-rectangle894 {
+  top: 1175px;
+  left: 1255px;
+  width: 112px;
+  height: 20px;
+  position: absolute;
+}
+.scrap-ewaste-vector60 {
+  top: 1179px;
+  left: 1270px;
+  width: 14px;
+  height: 13px;
+  position: absolute;
+}
+.scrap-ewaste-text52 {
+  top: 1170px;
+  left: 1299px;
+  color: rgba(255, 255, 255, 1);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.scrap-ewaste-cellphone3 {
+  top: 877px;
+  left: 166px;
+  width: 244px;
+  height: 251px;
+  position: absolute;
+}
+.scrap-ewaste-image3 {
+  top: 886px;
+  left: 638px;
+  width: 260px;
+  height: 242px;
+  position: absolute;
+}
+.scrap-ewaste-elctronicsold13 {
+  top: 883px;
+  left: 1112px;
+  width: 258px;
+  height: 249px;
+  position: absolute;
+}
